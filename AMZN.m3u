@@ -135,3 +135,117 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgn
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd
+
+#EXTINF:-1, AMC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3290efe4c5cf67165e846a0742c22cd9:ddb94463c46af6037432fc026339c09d
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/gyczo3tdxu/out/v1/4e9f7dd1b08a404581818c3923af9a93/cenc.mpd
+
+#EXTINF:-1, AMC +
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=59a51164c2c915352f04066a06f6e807:eba5cc362d1d63c0fe6460febca0fd11
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/0f5clvxn6o/out/v1/d5a953bb19734fa3baa1776266887fcb/cenc.mpd
+
+#EXTINF:-1, Action MAX East
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=136a75130b82cdf89cb5f05d739b663f:0ef360ff75bb11b7f0982a86b86d39ae
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/995zvakyej/out/v1/3fa049c0afea4a83bb5f508f1859f160/cenc.mpd
+
+#EXTINF:-1, More MAX East
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=046c374a3db594dfb32cba86d2e4f72f:04c00a6ed0fc4ce37841210a42eeeb35
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/bw5g1vx3k9/out/v1/6913f190498b44c8a705e91728401769/cenc.mpd
+
+#EXTINF:-1, Star MAX East
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=81a74ef0cf71e28d5d9bc55d5fd7921a:884e89f90a9f5cbaaa5c2a451e1d8f86
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/yfo5p7nmtt/out/v1/fdce98358ffb47c9b6314feb9cfeda3f/cenc.mpd
+
+#EXTINF:-1, Cinemax East
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a5fc143bea61aa94eee0479933d5e72:8a365e8c3e2b8efdbcaab16d07c3b929
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/rckhgp0mdp/out/v1/3952b81ea31d45b38372b128371301d2/cenc.mpd
+
+#EXTINF:-1, Cinemax West
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf813dc4a32e0e9bcbce4446a65f4b12:eb9973b1a30c76812aa7ca8864b6a3c1
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd
+
+#EXTINF:-1, Sundance TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=60da54dad6804a8895d80f79bd2ef324:528d95c9ca726d0602c28f9366a08069
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/a2x5qulu66/out/v1/b7749a4e6d41479ca533f4d7c01d7675/cenc.mpd
+
+#EXTINF:-1, HBO East
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ab1caa245e2d8cc4e26e0e1b63fe661:22c42d7a1679f50ca4ad37b4c1ad97fe
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/ez2jwhkmke/out/v1/75466d737d52406e8a1c85dc70c9f183/cenc.mpd
+
+#EXTINF:-1, HBO Zone
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
+
+#EXTINF:-1, HBO Comedy
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
+
+#EXTINF:-1, HBO West
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=266fed45577cd293af39165e8073bc19:8e805607852c0606ecc553bd234d78b2
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zzhnlvao6q/out/v1/66f60c1d629549a78a22cc2913bfb3d1/cenc.mpd
+
+#EXTINF:-1, HBO 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e8c6a262b77b153530a6caaf2e07944a:81071cf5808c0387adab93d8ff9b1f09
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zilmviiwo5/out/v1/fe78320a319045d99299fb05208d90af/cenc.mpd
+
+#EXTINF:-1, HBO Signature
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2742f4791f17231bdb933844dabfb5bc:3c49eb8a723248f87fb8c3722874557e
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/o6rq3swwr4/out/v1/6a362c145af241e5a6eb45e0729ce5e6/cenc.mpd
+
+#EXTINF:-1, REELZ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2312fd39721560ea14f98caf3464195e:93713bb73be2d8aedf3eeb898850e7d5
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/dhdemvb6ff/out/v1/2dbabadc0d204aa9aad2c2e5d29af5c0/cenc.mpd
+
+#EXTINF:-1, Screenpix
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=537cc6cb07fe4bcc63d06c3018d5e35c:7420e0237883a05e4d2ddafaf114b050
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/9lvpst0mpb/out/v1/ba33b946c96e4a60886e2d91156398cd/cenc.mpd
+
+#EXTINF:-1, Screenpix Action
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a340ce5a22ce1a5f54c2c5dd18e8fe7d:afa091d637e61d585ad036fd4b8a3235
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/2bsytxoitz/out/v1/312e6d1e20e744c0a9bf25519f6da91b/cenc.mpd
+
+#EXTINF:-1, Screenpix Westerns
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=429d2a8c13dc9a40a13ef8d4e2325209:631892e5f5451b5596528e194c44d95b
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/ikqumnhhew/out/v1/1f50afbc65ba48e79f8325022bdb72a0/cenc.mpd
+
+#EXTINF:-1, MGM Celebrates Black Cinema
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dab8e28bb3dd8335c1669dc2aa7891fc:ce8ec4255a0c5a495749ea524e4e98b4
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/vzhzbcmueh/out/v1/3a0e3004d0514932acc2bb6758c61ed5/cenc.mpd
