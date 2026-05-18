@@ -249,3 +249,183 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/ikqumnhhew/out/v
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dab8e28bb3dd8335c1669dc2aa7891fc:ce8ec4255a0c5a495749ea524e4e98b4
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/vzhzbcmueh/out/v1/3a0e3004d0514932acc2bb6758c61ed5/cenc.mpd
+
+#EXTINF:-1, 24h
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aae169414f93c3057634bed5f8935d87:9acbca8c2db4d8c5d8d80904145680ce
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ediiulipbt/out/v1/5b1576088abf4d66a2c94f9cb68a8e0a/cenc.mpd
+
+#EXTINF:-1, Acontra+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2040a09e994af852d1bd161370e86a29:e4aa94106a82cbcf3cb1ca54fd59e771
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/enyah1390w/out/v1/e7eb52993e674cac9f63faababf3df22/cenc.mpd
+
+#EXTINF:-1, Antena 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=17117423b04bac17e52abbb5c77748f3:163e4efa13a074bbd56fbaeb31792211
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmpuqwfici/out/v1/1a5a24e422764fb3934808e830545f8d/cenc.mpd
+
+#EXTINF:-1, AMC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=47e023e0a02213717eada9bcbe8badf6:11c51a7ca3406597a75f1cb2940e8046
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cu3miff4hw/out/v1/80a199f5bc974b64b0281896d0a49b69/cenc.mpd
+
+#EXTINF:-1, AMC Break
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb8156173f3256da61faa2d17c8159ca:d9947e4600adf5cb6bcc68d69bc28d00
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cu3miff4hw/out/v1/80a199f5bc974b64b0281896d0a49b69/cenc.mpd
+
+#EXTINF:-1, AMC Crime
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3134884a0f457910ebe71cbad6247ada:4790ad9a1bc9912b5feada178d57c0fc
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/unpcb7o0f5/out/v1/a9d133bfdd2f4fc5bbe358888f6e7c3f/cenc.mpd
+
+#EXTINF:-1, AMC Living
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5950b52758a34ea1f5f71a908d916eb:b490f71561a1f661e795b1939a552d82
+https://bia-cf.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/bjvcxfu6f5/out/v1/a78d5d0687d34ddd9c7c77926685c760/cenc.mpd
+
+#EXTINF:-1, AMC Western
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b0649935a63ade1849a022c47fdffb60:8e5d967116d0445d5c1689669b8adc31
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kuyjtcy6mh/out/v1/4820fcb4f06d4187954fe03090307447/cenc.mpd
+
+#EXTINF:-1, Atreseries
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1db40f252323e6b271899eba8369a89d:520a6609226fc04aff1c2e7d7cc7afd9
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/n0vz0itxfm/out/v1/b12524001d1b401bb1104ab402e5e2e1/cenc.mpd
+
+#EXTINF:-1, Canal Cocina
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=63de85cf715c4f1172d94ca23ab56977:c9e85be7ef107f49f70cecc39b5e1e78
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ulduhfsvym/out/v1/62ffe76fbf4a40ada482df60d46edab1/cenc.mpd
+
+#EXTINF:-1, Dark
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=19273919b7442ea2b18da9b9763c1760:abcf1b55f552a2a0b5ee3256e4bcf4b1
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lu0iixsxer/out/v1/cc71ea57e9a14fdf9ee0b2f2235432ae/cenc.mpd
+
+#EXTINF:-1, Historia
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a1d42daf7e2ac6489b210fafdda48448:ee1b68080d3adde15af7867a331a2c6b
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qxmdctd0xf/out/v1/85509b15ece14cb48fa32b8fd3d0cec3/cenc.mpd
+
+#EXTINF:-1, Hollywood
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3683916b32053ecdfd92896167a538b1:7056231c4bc36658a23c374945d2eefb
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mag6zvyved/out/v1/8600dbca46414a9e834f975b7ccdca26/cenc.mpd
+
+#EXTINF:-1, La1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd
+
+#EXTINF:-1, La2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=92eb4fb693ddc7b72909828ad62cdff5:0b6f7e58c4566ca418447332b228d488
+https://bia-cf.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/arv0kf9ndp/out/v1/aa299e8d19994d78b35977495064e64c/cenc.mpd
+
+#EXTINF:-1, LaLiga TV Hypermotion
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
+https://bia-cf.live.pv-cdn.net/dub-nitro/live/clients/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1, LaLiga TV Hypermotion 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=29cd88140a812a06a8b7545c258235c9:e7cac95c5c591af733ab6e13892abc81
+https://bia-cf.live.pv-cdn.net/dub-nitro/live/clients/dash/enc/tdk3bssrpb/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+
+#EXTINF:-1, LaLiga TV Hypermotion 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+https://bia-cf.live.pv-cdn.net/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+
+#EXTINF:-1, LaSexta
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0cd888eabc05fd1e767c7ed273d93822:a284a8d929485ff48e66192f38d1c568
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/svvzbaflv0/out/v1/e26493342f6c48988273441261c51c14/cenc.mpd
+
+#EXTINF:-1, Mega
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=271a02e1bc5decc30ac1eee7b1353b3d:3510f830b5873c9b3a4fa75c5c8e7b12
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/i3lh6rjo6h/out/v1/3f2d0041aa034913bccea57ede3396b6/cenc.mpd
+
+#EXTINF:-1, Mezzo
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ecfce9c56a46a42e4aba2dcf8037fed:3085cadf11d93aa24b88ba938ad61ccd
+https://bia-cf.live.pv-cdn.net/dub-nitro/live/clients/dash/enc/xfixnh8glr/out/v1/7bd3f3b9e3f94d15bc0a52878c067d60/cenc.mpd
+
+#EXTINF:-1, Mezzo Live
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4708dc633793632adb2287ef37b2dc79:4d09e48cae8061ed7612c1c969804922
+https://bia-cf.live.pv-cdn.net/dub-nitro/live/clients/dash/enc/kaq34ndrio/out/v1/a8d9a45706e54ae49a922dc6d9dd151f/cenc.mpd
+
+#EXTINF:-1, Neox
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8de5be081a77728f5ca2518e88ebd041:9364c30dffd1a777cc3c85b02d7a3942
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/iwri4mtvyk/out/v1/1dbf8af814b144e8926ec54810f8f86c/cenc.mpd
+
+#EXTINF:-1, Nova
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f4463f7a0d7ebc520e0e717bc12f6e6:e0cb1f6ebadd70857289b6bea2ba2d30
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cs3hd2pzsn/out/v1/f2dde63cb6a848e4a6a28b3ae3af5ced/cenc.mpd
+
+#EXTINF:-1, Odisea
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d60ce2e5dedd56c8cf708f41468fd974:38b207c8cb479f3beb1b7629a0e5c1b1
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/eiz3z6y4dw/out/v1/ec65a585eb4a41bcb94dc1c09a001889/cenc.mpd
+
+#EXTINF:-1, Somos
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5dbf8f994f1fa5dd5519382c7ddf3f8d:bed54cb448c909d31c79478deaa60616
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/k9sfgempsy/out/v1/6e4175ae37c247b4b80cfd793d5a17dd/cenc.mpd
+
+#EXTINF:-1, Sundance TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e0bb6546fe54a5ad371c2e784d61281:14d8b6db7e3034ad742dc2196bd1e664
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/djatr7o8sq/out/v1/b9ae77d15eaa4bf199e531a759470dc5/cenc.mpd
+
+#EXTINF:-1, Teledeporte
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=61188f01dafe843a867dcb766d69a5dc:af32cc3fb0734419d7a7ef1f072775ae
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5qaoyqmq8f/out/v1/16cf12532ead4d5b9ded7a07af797b7a/cenc.mpd
+
+#EXTINF:-1, VinTv
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f665e85664da761d9f43db8119375cc9:3aca6d4c4302ec9e9240889dff27cafc
+https://bia-cf.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/vj617waw17/out/v1/64aea7701f014f1693af57e3ac7b3689/cenc.mpd
+
+#EXTINF:-1, XTRM
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed7a3f665cfbd9d487b8039231abaca5:b0669699de2ed25cfa06e7943e0acc80
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/esiotal5zq/out/v1/c01fdef0494c4ce5a65ac8f52bbe44dc/cenc.mpd
