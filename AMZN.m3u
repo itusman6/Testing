@@ -118,6 +118,24 @@ https://5c7b683162943.streamlock.net/live/bahraininternational/playlist.m3u8
 #EXTINF:-1, Bahrain Quran
 https://5c7b683162943.streamlock.net/live/bahrainquran/playlist.m3u8
 
+#EXTINF:-1, AlKass One
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+
+#EXTINF:-1, AlKass Two
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
+
+#EXTINF:-1, AlKass Three
+https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
+
+#EXTINF:-1, AlKass Four
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+
+#EXTINF:-1, AlKass Five
+https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
+
+#EXTINF:-1, AlKass Six
+https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
+
 #EXTINF:-1, Dsports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
