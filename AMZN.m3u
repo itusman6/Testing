@@ -660,3 +660,28 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bfigtl960n/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dca8597f12f8d6928b55c1291c7bb300:36c8b3f51d474b95f0adad70899343e1
 https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/TNT-HD/default.mpd
+
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Sky Sports 16
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=55b3fc9e698876b1c299358de6e0a332:e541c87b83ce28e68d785b8129b74217
+https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/SKYSPORTS16HD/default.mpd
+
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Sky Sports
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a0bbabbc46e61e860f4e6154e01f665a:d6fabef689130cf0283e577a72f67b4d
+https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/SKYSPORTSHD/default.mpd
+
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Sky Sports 21
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34afdb891bf9df68d899a42ea36f8924:c438d1bfeed38a0ff9986499e48357d5
+https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/SKYSPORTS21HD/default.mpd
+
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",Sky Sports 24
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=88571639c642228c29b4247c9f7a12e4:d21b30dd319f875ab7f880a9c6a9688d
+https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/SKYSPORTS24HD/default.mpd
+
