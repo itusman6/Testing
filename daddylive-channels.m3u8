@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/epgs/daddylive-channels-epg.xml"
+
+#EXTINF:-1 group-title="SPAIN" tvg-id="M+.Vamos.es" tvg-logo="https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/logos/vamos.png",#Vamos Spain
+#EXTVLCOPT:http-origin=https://donis.jimpenopisonline.online
+#EXTVLCOPT:http-referer=https://donis.jimpenopisonline.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+https://vomos.phantemlis.top/premium51/index.m3u8?md5v1=iKIJYiyEsfsdYURrQFTNmA&md5v2=79-MwD_zcNJbR-aQux_cBg&expires=1779959833
+
