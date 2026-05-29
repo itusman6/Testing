@@ -685,3 +685,33 @@ https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/SKYSPORTS21HD/default.m
 #KODIPROP:inputstream.adaptive.license_key=88571639c642228c29b4247c9f7a12e4:d21b30dd319f875ab7f880a9c6a9688d
 https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/SKYSPORTS24HD/default.mpd
 
+#EXTINF:-1, Abu Dhabi Sports 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1bec6ac7cd9a02dd75da2278ba3183ef:029edcf6b6c737595445a1a3a390edb3
+https://neacdnpop3-edge01.aws.playco.com/live/eds/Abu_Dhabi_Sports_1_HD/DASH/Abu_Dhabi_Sports_1_HD.mpd
+
+#EXTINF:-1, Abu Dhabi
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c4055f4b8e3d241ec523c3b925a98ae2:1c2ecca0522a49121b69ad85548fb27a
+https://neacdnpop3-edge01.aws.playco.com/live/eds/Abu_Dhabi_TV_HD/DASH/Abu_Dhabi_TV_HD.mpd
+
+#EXTINF:-1, KSA Sports 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a0723ff5bf2bbbb31dc727e4346b1cc7:29951a0a48586258ab168f26b3f58daa
+https://neacdnpop3-edge01.aws.playco.com/live/eds/KSA_Sports1_HD/DASH/KSA_Sports1_HD.mpd
+
+#EXTINF:-1, KSA Sports 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f7142ef5a9d7b8ef1044232e74605e91:f36d37064c1109c107ffab95c0f7532d
+https://neacdnpop3-edge01.aws.playco.com/live/eds/KSA_Sports2_HD/DASH/KSA_Sports2_HD.mpd
+
+#EXTINF:-1, KSA Sports 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=637dc9620732d390ab2df32e070256f0:0e47bb47e90258b5f392f8ecb54a8b22
+https://neacdnpop3-edge01.aws.playco.com/live/eds/KSA_Sports3_HD/DASH/KSA_Sports3_HD.mpd
+
