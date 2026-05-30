@@ -715,3 +715,44 @@ https://neacdnpop3-edge01.aws.playco.com/live/eds/KSA_Sports2_HD/DASH/KSA_Sports
 #KODIPROP:inputstream.adaptive.license_key=637dc9620732d390ab2df32e070256f0:0e47bb47e90258b5f392f8ecb54a8b22
 https://neacdnpop3-edge01.aws.playco.com/live/eds/KSA_Sports3_HD/DASH/KSA_Sports3_HD.mpd
 
+#EXTINF:-1, Babes TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=996d754bd00695c04644c3fa44c25183:5d5fcedc221c1ce858519d60442a107a
+https://video.beeline.tv/live/d/channel472.isml/manifest-stb.mpd
+
+#EXTINF:-1, Barely Legal
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf0bdbb8a0e83ec6ba8b7f42d27a6925:f4051d1dd36e66e085264b9b342641c5
+https://video.beeline.tv/live/d/channel420.isml/manifest-stb.mpd
+
+#EXTINF:-1, Brazzers TV Europe
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=30a943cb79dccfa9c2b579bb8274cf85:4e3643d08495456c936e8b77d620d496
+https://video.beeline.tv/live/d/channel012.isml/manifest-stb.mpd
+
+#EXTINF:-1, Exxxotica
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d5bd327009443ddeee322e210dda78a:f41de33f25ffd33284a11210e8889282
+https://video.beeline.tv/live/d/channel442.isml/manifest-stb.mpd
+
+#EXTINF:-1, FrenchLover
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2757ba26637acecfa143237f5a32e2c7:3e69642d9f9e23f0568eeb9d6a1ca48a
+https://video.beeline.tv/live/d/channel252.isml/manifest-stb.mpd
+
+#EXTINF:-1, Playboy TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b4af3cb6ba681d3df359cd404c11776:9b010f4ba2a71a3ef2706aed3549189b
+https://video.beeline.tv/live/d/channel047.isml/manifest-stb.mpd
+
+#EXTINF:-1, Red Lips
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fd536019350b37721cba80ef055972c:07d787ee89a0cad2d21983b4e0c792c7
+https://video.beeline.tv/live/d/channel443.isml/manifest-stb.mpd
