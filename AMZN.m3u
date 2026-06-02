@@ -759,3 +759,21 @@ https://video.beeline.tv/live/d/channel443.isml/manifest-stb.mpd
 
 #EXTINF:-1, Reality Kings
 https://estreams.tv.nej.cz/dash/CH_REALITY_KINGS_SD.ism/playlist.mpd
+
+#EXTINF:-1, STARZPLAY CRICBUZZ 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f
+http://neacdnpop3-edge01.aws.playco.com/live/eds/CricLife2/DASH/CricLife2.mpd
+
+#EXTINF:-1, STARZPLAY CRICBUZZ 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e8b5ddac5332a4e66c002b4c0f22322:d06de29b0eacb81ac6e3f325849047e8
+http://neacdnpop3-edge01.aws.playco.com/live/eds/Criclife_3/DASH/Criclife_3.mpd
+
+#EXTINF:-1, STARZPLAY CRICLIFE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e23e51b09a67b83813c17049870bcd4:c3d6288e378b0dc55320fd0e6fd2e55f
+http://neacdnpop3-edge01.aws.playco.com/live/eds/CricLife1/DASH/CricLife1.mpd
