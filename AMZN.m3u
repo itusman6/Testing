@@ -772,26 +772,6 @@ http://neacdnpop3-edge01.aws.playco.com/live/eds/CricLife2/DASH/CricLife2.mpd
 #KODIPROP:inputstream.adaptive.license_key=4e8b5ddac5332a4e66c002b4c0f22322:d06de29b0eacb81ac6e3f325849047e8
 http://neacdnpop3-edge01.aws.playco.com/live/eds/Criclife_3/DASH/Criclife_3.mpd
 
-#EXTINF:-1 group-title="DIRECTV GO", CINEMAX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a074a10db4342e7937076b3e52f6029:
-https://cnt1-streamer7.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
-
-#EXTINF:-1 group-title="DIRECTV GO", DISCOVERY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f8cad434d55453ba5341bdf1cfe0d58:
-https://cnt1-streamer3.cdn.3bbtv.com:8443/3bb/live/503/503.mpd
-
-#EXTINF:-1 group-title="DIRECTV GO", ASIAN FOOD NETWORK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2706609bde2c416eb4741a7503d765ed:
-https://cnt1-streamer6.cdn.3bbtv.com:8443/3bb/live/206/206.mpd
-
-#EXTINF:-1 group-title="DIRECTV GO", HBO FAMILY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=826ee4deef4b45cfafd5f79a591b15c6:
-https://cnt1-streamer8.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
-
 #EXTINF:-1 group-title="DIRECTV GO", ASIAN HITS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
