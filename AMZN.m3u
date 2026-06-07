@@ -837,31 +837,20 @@ https://b4uplay.com/sliv/stream.m3u8?id=1000009253
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
 https://b4uplay.com/sliv/stream.m3u8?id=1000009273
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8gm43j0/Pɪᴄsᴀʀᴛ-25-03-16-15-16-30-639.png" group-title="", SONY ONE CINEMA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3xZcG30J/1751816149331.png" group-title="", SONY ONE ÉXITOS
-https://240d7025e5434cb687148fff336...INEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
+https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5Z2bTL8/Pɪᴄsᴀʀᴛ-25-07-06-12-39-04-483.png" group-title="", SONY ONE HITS ACCIÓN
-https://375132e20edd4ed0bbddadeefa5...R-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
+https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nz5BN0Tg/Pɪᴄsᴀʀᴛ-25-07-06-12-50-59-796.png" group-title="", SONY ONE SERIES THRILLER
-https://f9ae66011b3c42c89d56196105a...-ES-SONYONESERIESTHRILLER-LG_ES/playlist.m3u8
+https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-833-ES-SONYONESERIESTHRILLER-LG_ES/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65h3118b/Pɪᴄsᴀʀᴛ-25-07-06-12-49-25-552.png" group-title="", SONY ONE SERIES COMEDIA
-https://bb5d0cf0f2fa4dbea91b1eebfdd...1-ES-SONYONESERIESCOMEDIA-LG_ES/playlist.m3u8
+https://bb5d0cf0f2fa4dbea91b1eebfdd144b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-831-ES-SONYONESERIESCOMEDIA-LG_ES/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYKY2Y1m/Pɪᴄsᴀʀᴛ-25-07-06-12-47-20-671.png" group-title="", SONY ONE HITS COMEDIA
-https://7bb2f486b8cd470296181dff19a...830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8
+https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhGKLCK4/1751816616437.png" group-title="", SONY ONE BLACKLIST
-https://db57ce9cb585443b89cc08f6e6d...34-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8
-
-#EXTINF:-1, Discovery Asia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=934907b134be3963a6263a453846924c:788e2835fb98568aed2f47bbdc091515
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
+https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8
