@@ -864,3 +864,73 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tezhlmgs1w/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd
+
+#EXTINF:-1 group-title="DIRECTV GO", DSPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
+
+#EXTINF:-1 group-title="DIRECTV GO", DSPORTS2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18044a84b7e6c1bbf852591797e53a2c:38b3b6f8810917d89636927bddb79294
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
+
+#EXTINF:-1 group-title="DIRECTV GO", DSPORTS+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd
+
+#EXTINF:-1 group-title="DIRECTV GO", DSPORTS HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
+
+#EXTINF:-1 group-title="DIRECTV GO", DSPORTS2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
+
+#EXTINF:-1 group-title="DIRECTV GO", DSPORTS+ HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
+
+#EXTINF:-1 group-title="DIRECTV GO", CANAL BRASIL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c78393bae527ea4a139317693510bc84:366460861aa79c1dd1cef80f08e4fa60
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/2glwrcj9am/out/v1/d1edbefeaf7b4a89940e300bda5ecb5a/cenc.mpd
+
+#EXTINF:-1 group-title="DIRECTV GO", CNN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7685b7e26da7cdd166f53216783de078:89b8a2d4e233a8831693615fe0d03509
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/zmpncidiwv/out/v1/56b839863a7642e2a99a8b5144341aea/cenc.mpd
+
+#EXTINF:-1 group-title="DIRECTV GO", GLOBO NEWS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57ecd6a2086b99cc1d0452b102a7043b:11386090a315fc1e88427aeed4a60900
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsfrp5mjrb/out/v1/9fa07e663bc94e9f93c53726a558478a/cenc.mpd
+
+#EXTINF:-1 group-title="DIRECTV GO", UNIVERSAL REALITY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b62d6103d99d62f8daca463d1c15430:2fd0079af0bf85289859fff7b8a4e30f
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/5ppjwg1ekb/out/v1/393342b545834c218745c3dd33661013/cenc.mpd
+
+#EXTINF:-1 group-title="DIRECTV GO", UNIVERSAL PREMIERE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3531c1c49b8e63c0b94a8061154e0c58:90e91e6549d2061b793177c70d35e177
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/khnyllds8v/out/v1/1cf61b7a057e4ffdb31f6d82fb24c679/cenc.mpd
+
+#EXTINF:-1 group-title="DIRECTV GO", STUDIO UNIVERSAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e23d4ee12c6c22f9f2d71eb6736faf8d:4843830569ef3424bde005c479540158
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/xm2kawzw7k/out/v1/2aec2a1a55a144f8af91c7fd362066a8/cenc-sd.mpd
+
+#EXTINF:-1 group-title="DIRECTV GO", USA NETWORK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0feb6ce113a568ea98521aadd4e219e9:85efd94e5ad07ee07d7e73df7e2b46c4
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/0j5h7enlbd/out/v1/817527a9fcba4b2d89f7f98d057a5b8b/cenc-sd.mpd
+
+#EXTINF:-1 group-title="DIRECTV GO", CANAL OFF
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2469c8a402e93c8b56837b4569f994e0:c28ad9d5cdd24a1924e3f6eb07e8420f
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kyrq4skts0/out/v1/db9226031d5c4bc5a588b17b674628c5/cenc-sd.mpd
