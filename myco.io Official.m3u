@@ -1,10 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, Geo Super - Server 1
-https://cdn01.medialive.one:2096/GEOSUPERFHD/index.m3u8
-#EXTINF:-1, Geo Super - Server 2
-https://cdn01.medialive.one:2096/GEOSUPERFHD/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1, Green Entertainement - Server 1
 https://cdn01.medialive.one:2096/GREENENTFHD/index.m3u8
 #EXTINF:-1, Green Entertainement - Server 2
