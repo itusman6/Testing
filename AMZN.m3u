@@ -777,66 +777,6 @@ http://neacdnpop3-edge01.aws.playco.com/live/eds/Criclife_3/DASH/Criclife_3.mpd
 #KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
 https://cnt1-streamer4.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
 
-#EXTINF:-1 group-title="Sony LIV",Sony Sports 1 HD
-#EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009276
-
-#EXTINF:-1 group-title="Sony LIV",Sony Sports 2 HD
-#EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009277
-
-#EXTINF:-1 group-title="Sony LIV",Sony Sports 3 HD
-#EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009278
-
-#EXTINF:-1 group-title="Sony LIV",Sony Sports 5 HD
-#EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009275
-
-#EXTINF:-1 group-title="Sony LIV",Sony TV HD
-#EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009246&e=.m3u8
-
-#EXTINF:-1 group-title="Sony LIV",Sony Max HD
-#EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009247&e=.m3u8
-
-#EXTINF:-1 group-title="Sony LIV",Sony Sab HD
-#EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009248&e=.m3u8
-
-#EXTINF:-1 group-title="Sony LIV",Sony BBC Earth HD
-#EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009252
-
-#EXTINF:-1 group-title="Sony LIV",Sony Pix HD
-#EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009258&e=.m3u8
-
-#EXTINF:-1 group-title="Sony LIV",Sony Max
-#EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009249
-
-#EXTINF:-1 group-title="Sony LIV",Sony Wah
-#EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009253
-
-#EXTINF:-1 group-title="Sony LIV",Sony Pal
-#EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009273
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3xZcG30J/1751816149331.png" group-title="", SONY ONE ÉXITOS
 https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
 
