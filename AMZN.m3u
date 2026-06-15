@@ -1606,32 +1606,32 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(
 #EXTINF:-1 tvg-logo="" ,Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 group-title="IZZI MÉXICO: MUNDIAL 2026" tvg-logo="",🇲🇽 VIX PREMIUM 90: COPA MUNDIAL DE LA FIFA 2026
+#EXTINF:-1 group-title="IZZI MÉXICO: MUNDIAL 2026" tvg-logo="",VIX PREMIUM 90: COPA MUNDIAL DE LA FIFA 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203
 https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd
 
-#EXTINF:-1 group-title="IZZI MÉXICO: MUNDIAL 2026" tvg-logo="",🇲🇽 VIX PREMIUM 91: COPA MUNDIAL DE LA FIFA 2026
+#EXTINF:-1 group-title="IZZI MÉXICO: MUNDIAL 2026" tvg-logo="",VIX PREMIUM 91: COPA MUNDIAL DE LA FIFA 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11f486ca7df20d63ff3aaecf4d87d132:9271506950313bab2ced7522891aa022
 https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-91-HD/default.mpd
 
-#EXTINF:-1 group-title="IZZI MÉXICO: MUNDIAL 2026" tvg-logo="",🇲🇽 VIX PREMIUM 92: COPA MUNDIAL DE LA FIFA 2026
+#EXTINF:-1 group-title="IZZI MÉXICO: MUNDIAL 2026" tvg-logo="",VIX PREMIUM 92: COPA MUNDIAL DE LA FIFA 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=784d6b54efe3a13dc1fbcda17e5804db:b4f4814e01943f910b62e6bfd0c23728
 https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-92-HD/default.mpd
 
-#EXTINF:-1 group-title="IZZI MÉXICO: MUNDIAL 2026" tvg-logo="",🇲🇽 VIX PREMIUM 93: COPA MUNDIAL DE LA FIFA 2026
+#EXTINF:-1 group-title="IZZI MÉXICO: MUNDIAL 2026" tvg-logo="",VIX PREMIUM 93: COPA MUNDIAL DE LA FIFA 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ee1a23e40b456ebfdaa40c51a24b857:45ffaff5f3221a356c82c3d39bb327ac
 https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-93-HD/default.mpd
 
-#EXTINF:-1 group-title="IZZI MÉXICO: MUNDIAL 2026" tvg-logo="",🇲🇽 VIX PREMIUM 94: COPA MUNDIAL DE LA FIFA 2026
+#EXTINF:-1 group-title="IZZI MÉXICO: MUNDIAL 2026" tvg-logo="",VIX PREMIUM 94: COPA MUNDIAL DE LA FIFA 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b0dd1c5b5812460479ac94af4ff061d:fc5a0c78cf2ad8bb3636e01150553427
 https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-94-HD/default.mpd
 
-#EXTINF:-1 group-title="IZZI MÉXICO: MUNDIAL 2026" tvg-logo="",🇲🇽 VIX PREMIUM 95: COPA MUNDIAL DE LA FIFA 2026
+#EXTINF:-1 group-title="IZZI MÉXICO: MUNDIAL 2026" tvg-logo="",VIX PREMIUM 95: COPA MUNDIAL DE LA FIFA 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9696c2f12e487aafe1dc96d16d0db658:159fd5dc3b0d9e0d75f856e95e225801
 https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-95-HD/default.mpd
@@ -1641,3 +1641,105 @@ https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-95-HD/defau
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91
 https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd
+
+#EXTINF:-1, TNT 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11
+https://otte-qw.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd
+
+#EXTINF:-1, TNT 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b59ce06de74ed84f2eda5e81dadba13:48e4ba4ad6c2a60d2bda5d71a0050844
+https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd
+
+#EXTINF:-1, TnT 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd
+
+#EXTINF:-1, Tnt 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50
+https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" ,TSN 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b37e4614fcee2ec2ff6e5900c2f798f:f349a9c28c55c20b9a2c50af99d1fc76
+https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/aezp9y6l15/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" ,DSports (Argentina)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
+https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" ,DSports 2 (Pan-regional)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0db71325e4256f5f16b348b3b1b7832a:c664b811a97edc555da47c1d22482542
+https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/nzl2d4ffbw/out/v1/d094dc6ba8354f3e88b7efa32f80cc33/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" ,DSports + (Pan-regional)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da81f7165f73c884fc1dcf0bf3bd4bb5:3f8d519997196db76631dd4b427f53f6
+https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/hoo4ddqavw/out/v1/dadfb43b8a714e4f9288026b5c3351a0/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" ,SPORZA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91
+https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd
+
+#EXTINF:-1 tvg-logo="" ,TUDN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=010efb17241d2f50c80d3ca5218770f4:ecfec27a0a1ad4004488263c33b51e9f
+https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/TUDN-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="" ,SKY SPORTS F1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a839dc5a88ce62da1fcc7ba78161abc2:30a2f0d4408d38aa5968f08a784c37ad
+https://vod-cua-orbit3-s1.izzigo.tv/out/u/startover/dash/F1-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="" ,LAS ESTRELLAS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18273dd094587276de662812a2994055:4cccb1a1e21a3dbc42bd4a3989a61de0
+https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/LAS-ESTRELLAS-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="" ,AZTECA 7
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce8f86d2f0d1638574237ada8ac2e82a:642772ebf1832f1f2fa58cb7e8fcfd05
+https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/AZTECA-7-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="" ,ESPN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=38b63f9aaa7b7c7a822c8e14c8a7212e:d6b1f45a59d2dac1a730c7f56c74971a
+https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="" ,ESPN 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a49114957d155cacb2e027af14450b94:0fed6599a8740879a29f1a49ec6d482a
+https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-2-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="" ,ESPN 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc3c1a083eae593631b5b5019e2efb78:68693fb66dc31ca864d854cd176c44c6
+https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-3-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="" ,ESPN 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a1b8099b64726abc7723e17829b43a55:908a93fe41acf07538c88c1b30277656
+https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-EXTRA-HD/default.mpd
