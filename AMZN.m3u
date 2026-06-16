@@ -1595,3 +1595,27 @@ https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-3-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a1b8099b64726abc7723e17829b43a55:908a93fe41acf07538c88c1b30277656
 https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-EXTRA-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="" ,Super Écran 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ea99f22a6907bb7036b3ca14c5aac20:ae52099e609c738e35f7746596a7676e
+https://live-pv-ta.amazon.fastly-edge.com/dub-nitro/live/dash/enc/mm4sc8ctls/out/v1/5ed6b106d3ce414f9fe3b14925db1b57/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" ,Super Écran 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=714f4dd5ddb1b0eb431b4f81827af140:13a4b64a8e7d38ab401276e943bacbf6
+https://live-pv-ta.amazon.fastly-edge.com/dub-nitro/live/dash/enc/xrikgkpu1b/out/v1/3dbeaf4d85124501afa119e3f0917041/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" ,Super Écran 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6543f7f98404fa666e548895c9b0d37:0a8ff131cdaae2f0fa645b53973a5cab
+https://live-pv-ta.amazon.fastly-edge.com/dub-nitro/live/dash/enc/waa5mlaa7n/out/v1/d49f6823908542338d155274ec4a9f9f/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" ,Super Écran 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d80f9f720a88ebbffa2da880fba6ec6d:481d9f1e88d07d62d3a6681df8079a6e
+https://live-pv-ta.amazon.fastly-edge.com/dub-nitro/live/dash/enc/4vxsklalvp/out/v1/efb54e44fc9e48cfbe39e4fd13948b10/cenc.mpd
