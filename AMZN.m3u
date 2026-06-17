@@ -1683,3 +1683,9 @@ https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/g6fcpf
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813
 https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd
+
+#EXTINF:-1 tvg-logo="" ,TRT 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e4f022a08508d006918dd90275feff34":"0eb4ccdf0d39c9e5a4a0b596ab5751a9","033307a147a4d35a99109a79b2aa3e8c":"a1e51fff110f8784491219998c447ab2","e6042fe46ecd1b2a15c2771a25fbb7ba":"8939d00458e7883730cdd60ba0e391f2","0936d915376efcd813ce40428601cc31":"c542de1c1fb7e64b48fe72e14b6b6dc4"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/490/1/live.mpd
