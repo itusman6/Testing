@@ -1643,3 +1643,37 @@ https://tvcdn.tv.telia.lt/live/eds/Disney_Channel_H/DASH_5_CPIX_NPVR/Disney_Chan
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ecc83e1cbb1f4c1bd3343845f55b361:560a022b2d0e0909420fd363101b2e3b
 https://tvcdn.tv.telia.lt/live/eds/Disney_Junior_H/DASH_5_CPIX_NPVR/Disney_Junior_H.mpd
+
+#EXTINF:-1 tvg-logo="" ,ITV 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72ef33db7bdd6dc41ff608b371e2b257:2a8743a5e6fab4f8adf6340ba31cdab7
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/lveyed1ij6/out/v1/22c10ac409704decaf242d66fec34059/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" ,ITV 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eeed0693c4958a810e5eeb1106b6a5a8:c3e3aba6411f9f03de7dafad12ededd8
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/yy7rv3xffk/out/v1/eaa04ffbf43745ee9658d1ba49db4eb2/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" ,ITV 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea178e28af00ed57e7101255f977c222:f29602a280f41950d1935f0c6816dc12
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/ffwqzsa0zr/out/v1/752ac25588ff4607b45f3876a8e89223/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" ,ITV Quiz
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/qtilvakokh/out/v1/2cb8ae16abad43918e7373de26ffa860/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" ,SporTV 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2357a3e2fe6f07c42c00ee9eec769a27:061d7a73d6f4b13160e3d9fdbc154a0a
+https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/orhlovwjv8/out/v1/3fbdf8c3ec6743d085d32dace1764176/cenc.mpd
+
+#EXTINF:-1 tvg-logo="" ,SporTV 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1eb59f8af473ba27994af89b8e5c554c:114b3cc4eca9895b3d4cfde38f1f6d61
+https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/g6fcpfaeeu/out/v1/d6a42c54e38549028b9bb5d888b20280/cenc.mpd
