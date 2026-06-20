@@ -1,0 +1,2124 @@
+#EXTM3U
+#PLAYLIST:San Juan TV
+#EXTIMG:https://i.imgur.com/Sdj4Miw.png
+#EXTINF:-1 tvg-id="oneph" tvg-name="One PH" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9392-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1800" tvg-chno="1" group-title="Entertainment",One PH
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/oneph/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/oneph/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="buko" tvg-name="BuKO" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AD956-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="2" group-title="Entertainment",BuKO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/buko/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/buko/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="ptv4" tvg-name="PTV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/PTV_4_Logo_June_2017.svg/240px-PTV_4_Logo_June_2017.svg.png" tvg-chno="4" group-title="News",PTV 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/ptv4/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/ptv4/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="tv5" tvg-name="TV5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/TV5_%28Philippine_TV_network%29_logo.svg/240px-TV5_%28Philippine_TV_network%29_logo.svg.png" tvg-chno="5" group-title="Entertainment",TV5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/tv5/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/tv5/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_gma_7" tvg-name="GMA 7" tvg-logo="https://converse.nathcreqtives.com/api/logo/hZBwju9-7iUIIScGyHVQpkYv?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSEMtU1ZXRyIsImlhdCI6MTc4MTA3NjEzMywiZXhwIjoxNzg1NTY4Mjg1LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODU1NjgyODUsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vY2lnbmFscGxheW1heC52ZXJjZWwuYXBwIiwiaHR0cHM6Ly9jaWduYWxwbGF5bWF4cGhjb3JuZXIudndnc2FsdmFkb3Iud29ya2Vycy5kZXYiXX0.kokHjy1cb63ABjhHnrrxQZ0AaoOG4PrOYtba_a_pUYE" tvg-chno="7" group-title="Entertainment",GMA 7
+https://cignalplaymaxcdn.qzz.io/conv_local_gma_7/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_anc" tvg-name="ANC" tvg-logo="https://converse.nathcreqtives.com/api/logo/EJnFjsvk2QVke0yU05xb-7DI?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSEMtU1ZXRyIsImlhdCI6MTc4MTA3NjEzMywiZXhwIjoxNzg1NTY4Mjg1LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODU1NjgyODUsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vY2lnbmFscGxheW1heC52ZXJjZWwuYXBwIiwiaHR0cHM6Ly9jaWduYWxwbGF5bWF4cGhjb3JuZXIudndnc2FsdmFkb3Iud29ya2Vycy5kZXYiXX0.kokHjy1cb63ABjhHnrrxQZ0AaoOG4PrOYtba_a_pUYE" tvg-chno="9" group-title="News",ANC
+https://cignalplaymaxcdn.qzz.io/conv_local_anc/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_gnn" tvg-name="GNN" tvg-logo="https://converse.nathcreqtives.com/api/logo/RRhenT5JNTbgPCZsWM_uusyR?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSEMtU1ZXRyIsImlhdCI6MTc4MTA3NjEzMywiZXhwIjoxNzg1NTY4Mjg1LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODU1NjgyODUsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vY2lnbmFscGxheW1heC52ZXJjZWwuYXBwIiwiaHR0cHM6Ly9jaWduYWxwbGF5bWF4cGhjb3JuZXIudndnc2FsdmFkb3Iud29ya2Vycy5kZXYiXX0.kokHjy1cb63ABjhHnrrxQZ0AaoOG4PrOYtba_a_pUYE" tvg-chno="9" group-title="News",GNN
+https://cignalplaymaxcdn.qzz.io/conv_local_gnn/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="rptv" tvg-name="RPTV" tvg-logo="https://cms.cignal.tv/Upload/Images/rptv%20logo%20final-02.png" tvg-chno="10" group-title="News",RPTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/rptv/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/rptv/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="wil_tv" tvg-name="RESERVED" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/Reserved-logo.png" tvg-chno="12" group-title="Entertainment",RESERVED
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/wil_tv/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/wil_tv/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_gtv" tvg-name="GTV" tvg-logo="https://converse.nathcreqtives.com/api/logo/Ymmg7Oo16B4XXeI61jK5Pq1v?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSEMtU1ZXRyIsImlhdCI6MTc4MTA3NjEzMywiZXhwIjoxNzg1NTY4Mjg1LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODU1NjgyODUsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vY2lnbmFscGxheW1heC52ZXJjZWwuYXBwIiwiaHR0cHM6Ly9jaWduYWxwbGF5bWF4cGhjb3JuZXIudndnc2FsdmFkb3Iud29ya2Vycy5kZXYiXX0.kokHjy1cb63ABjhHnrrxQZ0AaoOG4PrOYtba_a_pUYE" tvg-chno="11" group-title="Entertainment",GTV
+https://cignalplaymaxcdn.qzz.io/conv_local_gtv/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="ibc13" tvg-name="IBC 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Intercontinental_Broadcasting_Corporation_%28IBC%29.svg/240px-Intercontinental_Broadcasting_Corporation_%28IBC%29.svg.png" tvg-chno="13" group-title="Entertainment",IBC 13
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/ibc13/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/ibc13/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_all_tv" tvg-name="ALL TV" tvg-logo="https://converse.nathcreqtives.com/api/logo/cVdU408U5ExdsGJVYUNSpR7N?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSEMtU1ZXRyIsImlhdCI6MTc4MTA3NjEzMywiZXhwIjoxNzg1NTY4Mjg1LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODU1NjgyODUsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vY2lnbmFscGxheW1heC52ZXJjZWwuYXBwIiwiaHR0cHM6Ly9jaWduYWxwbGF5bWF4cGhjb3JuZXIudndnc2FsdmFkb3Iud29ya2Vycy5kZXYiXX0.kokHjy1cb63ABjhHnrrxQZ0AaoOG4PrOYtba_a_pUYE" tvg-chno="2" group-title="Entertainment",ALL TV
+https://cignalplaymaxcdn.qzz.io/conv_local_all_tv/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_dzmm_teleradyo" tvg-name="DZMM Teleradyo" tvg-logo="https://converse.nathcreqtives.com/api/logo/Gn3TxtI7TtF48fMF3LbmySNg?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSEMtU1ZXRyIsImlhdCI6MTc4MTA3NjEzMywiZXhwIjoxNzg1NTY4Mjg1LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODU1NjgyODUsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vY2lnbmFscGxheW1heC52ZXJjZWwuYXBwIiwiaHR0cHM6Ly9jaWduYWxwbGF5bWF4cGhjb3JuZXIudndnc2FsdmFkb3Iud29ya2Vycy5kZXYiXX0.kokHjy1cb63ABjhHnrrxQZ0AaoOG4PrOYtba_a_pUYE" tvg-chno="16" group-title="Entertainment",DZMM Teleradyo
+https://cignalplaymaxcdn.qzz.io/conv_local_dzmm_teleradyo/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_dzrh_tv" tvg-name="DZRH TV" tvg-logo="https://converse.nathcreqtives.com/api/logo/7YcPd00c-M5OJi-DxscFJfua?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSEMtU1ZXRyIsImlhdCI6MTc4MTA3NjEzMywiZXhwIjoxNzg1NTY4Mjg1LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODU1NjgyODUsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vY2lnbmFscGxheW1heC52ZXJjZWwuYXBwIiwiaHR0cHM6Ly9jaWduYWxwbGF5bWF4cGhjb3JuZXIudndnc2FsdmFkb3Iud29ya2Vycy5kZXYiXX0.kokHjy1cb63ABjhHnrrxQZ0AaoOG4PrOYtba_a_pUYE" tvg-chno="17" group-title="News",DZRH TV
+https://cignalplaymaxcdn.qzz.io/conv_local_dzrh_tv/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="truefm_tv" tvg-name="True FM TV" tvg-logo="https://i.imgur.com/i0xetYa.png" tvg-chno="18" group-title="Entertainment",True FM TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/truefm_tv/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/truefm_tv/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="a2z" tvg-name="A2Z SD" tvg-logo="https://i.imgur.com/pRwyOMP.png" tvg-chno="2" group-title="Entertainment",A2Z SD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/a2z/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/a2z/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_solarflix" tvg-name="Solarflix" tvg-logo="https://converse.nathcreqtives.com/api/logo/SBoAYh6kpnScav-gocmiSS_R?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSEMtU1ZXRyIsImlhdCI6MTc4MTA3NjEzMywiZXhwIjoxNzg1NTY4Mjg1LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODU1NjgyODUsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vY2lnbmFscGxheW1heC52ZXJjZWwuYXBwIiwiaHR0cHM6Ly9jaWduYWxwbGF5bWF4cGhjb3JuZXIudndnc2FsdmFkb3Iud29ya2Vycy5kZXYiXX0.kokHjy1cb63ABjhHnrrxQZ0AaoOG4PrOYtba_a_pUYE" tvg-chno="19" group-title="Movies",Solarflix
+https://cignalplaymaxcdn.qzz.io/conv_local_solarflix/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_aliw_channel" tvg-name="Aliw Channel" tvg-logo="https://converse.nathcreqtives.com/api/logo/3cwsHR2kNhDSjGWhU1xrvYpi?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSEMtU1ZXRyIsImlhdCI6MTc4MTA3NjEzMywiZXhwIjoxNzg1NTY4Mjg1LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODU1NjgyODUsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vY2lnbmFscGxheW1heC52ZXJjZWwuYXBwIiwiaHR0cHM6Ly9jaWduYWxwbGF5bWF4cGhjb3JuZXIudndnc2FsdmFkb3Iud29ya2Vycy5kZXYiXX0.kokHjy1cb63ABjhHnrrxQZ0AaoOG4PrOYtba_a_pUYE" tvg-chno="37" group-title="Entertainment",Aliw Channel
+https://cignalplaymaxcdn.qzz.io/conv_local_aliw_channel/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="bilyonaryo" tvg-name="Bilyonaryo Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/BilyonaryoNewsChannel_Logo_-_Black_%282024%29.png" tvg-chno="31" group-title="News",Bilyonaryo Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/bilyonaryo/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/bilyonaryo/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_net_25" tvg-name="NET 25" tvg-logo="https://converse.nathcreqtives.com/api/logo/JxbieEAb_whBPpyoLjERhc6R?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSEMtU1ZXRyIsImlhdCI6MTc4MTA3NjEzMywiZXhwIjoxNzg1NTY4Mjg1LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODU1NjgyODUsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vY2lnbmFscGxheW1heC52ZXJjZWwuYXBwIiwiaHR0cHM6Ly9jaWduYWxwbGF5bWF4cGhjb3JuZXIudndnc2FsdmFkb3Iud29ya2Vycy5kZXYiXX0.kokHjy1cb63ABjhHnrrxQZ0AaoOG4PrOYtba_a_pUYE" tvg-chno="25" group-title="Entertainment",NET 25
+https://cignalplaymaxcdn.qzz.io/conv_local_net_25/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_rjtv_29" tvg-name="RJTV 29" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/RJTV_Logo.png/240px-RJTV_Logo.png" tvg-chno="29" group-title="Entertainment",RJTV 29
+https://cignalplaymaxcdn.qzz.io/conv_local_rjtv_29/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="tvn_movies_pinoy" tvg-name="TVN Movies Pinoy" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/C5298B63-6A6F-4CEC-8AC7-07B482EFA587/0-16x9.jpg?width=1980" tvg-chno="47" group-title="Movies",TVN Movies Pinoy
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/tvn_movies_pinoy/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/tvn_movies_pinoy/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="celestial_movie_pinoy" tvg-name="Celestial Movie Pinoy" tvg-logo="https://i.imgur.com/rjvO1Gr.png" tvg-chno="52" group-title="Movies",Celestial Movie Pinoy
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/celestial_movie_pinoy/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/celestial_movie_pinoy/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_cinemo" tvg-name="Cinemo!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Cinemo_logo.png/240px-Cinemo_logo.png" tvg-chno="47" group-title="Movies",Cinemo!
+https://cignalplaymaxcdn.qzz.io/conv_local_cinemo/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_celestial_classic_movies" tvg-name="Celestial Classic Movies" tvg-logo="https://converse.nathcreqtives.com/api/logo/N4rHn4VPdTOZVgIHo7j00-De?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSEMtU1ZXRyIsImlhdCI6MTc4MTA3NjEzMywiZXhwIjoxNzg1NTY4Mjg1LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODU1NjgyODUsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vY2lnbmFscGxheW1heC52ZXJjZWwuYXBwIiwiaHR0cHM6Ly9jaWduYWxwbGF5bWF4cGhjb3JuZXIudndnc2FsdmFkb3Iud29ya2Vycy5kZXYiXX0.kokHjy1cb63ABjhHnrrxQZ0AaoOG4PrOYtba_a_pUYE" tvg-chno="25" group-title="Movies",Celestial Classic Movies
+https://cignalplaymaxcdn.qzz.io/conv_local_celestial_classic_movies/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_cinema_one" tvg-name="C1" tvg-logo="https://converse.nathcreqtives.com/api/logo/3YYHwpUKklsUdMuyIpFbcHUE?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSEMtU1ZXRyIsImlhdCI6MTc4MTA3NjEzMywiZXhwIjoxNzg1NTY4Mjg1LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODU1NjgyODUsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vY2lnbmFscGxheW1heC52ZXJjZWwuYXBwIiwiaHR0cHM6Ly9jaWduYWxwbGF5bWF4cGhjb3JuZXIudndnc2FsdmFkb3Iud29ya2Vycy5kZXYiXX0.kokHjy1cb63ABjhHnrrxQZ0AaoOG4PrOYtba_a_pUYE" tvg-chno="46" group-title="Movies",C1
+https://cignalplaymaxcdn.qzz.io/conv_local_cinema_one/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="tmc_final_hour" tvg-name="TMC (Final Hour)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/TMC_%28Philippine_TV_channel%29_logo.svg/240px-TMC_%28Philippine_TV_channel%29_logo.svg.png" tvg-chno="50" group-title="Movies",TMC (Final Hour)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/tmc_final_hour/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/tmc_final_hour/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="thrill" tvg-name="Thrill" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Thrill_channel_logo.png/240px-Thrill_channel_logo.png" tvg-chno="150" group-title="Movies",Thrill
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/thrill/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/thrill/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="game_show_network" tvg-name="Game Show Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Game_Show_Network_2018.svg" tvg-chno="29" group-title="Entertainment",Game Show Network
+https://cignalplaymaxcdn.qzz.io/game_show_network/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="hits_movies" tvg-name="Hits Movies" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ACF06-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="130" group-title="Movies",Hits Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/hits_movies/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/hits_movies/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="global_trekker" tvg-name="Global Trekker" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Global_Trekker_logo.jpg/240px-Global_Trekker_logo.jpg" tvg-chno="149" group-title="Documentary",Global Trekker
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/global_trekker/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/global_trekker/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="travelchannel" tvg-name="Travel Channel" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A8898-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="143" group-title="Documentary",Travel Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/travelchannel/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/travelchannel/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_metro_channel" tvg-name="Metro Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Metro_Channel_logo.png/240px-Metro_Channel_logo.png" tvg-chno="36" group-title="Entertainment",Metro Channel
+https://cignalplaymaxcdn.qzz.io/conv_local_metro_channel/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="nickelodeon_sd" tvg-name="Nickelodeon SD" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="72" group-title="Kids",Nickelodeon SD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/nickelodeon_sd/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/nickelodeon_sd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="babytv_mulit_track" tvg-name="BabyTV Mulit Track" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/BabyTV_logo.png" tvg-chno="79" group-title="Kids",BabyTV Mulit Track
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/babytv_mulit_track/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/babytv_mulit_track/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="24_7_jimjam_2014" tvg-name="JimJam Pan-European feed" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/c/c4/JimJam_logo.png" tvg-chno="36" group-title="Kids",JimJam Pan-European feed
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/24_7_jimjam_2014/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/24_7_jimjam_2014/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="nickelodeon_3bb" tvg-name="Nickelodeon" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ADD5C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="72" group-title="Kids",Nickelodeon
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/nickelodeon_3bb/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/nickelodeon_3bb/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="animax" tvg-name="Animax" tvg-logo="https://cms.cignal.tv/Upload/Images/Animax.jpg" tvg-chno="122" group-title="Anime",Animax
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/animax/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/animax/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="nick_toons_sd" tvg-name="Nick Toons SD" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="72" group-title="Kids",Nick Toons SD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/nick_toons_sd/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/nick_toons_sd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="aniplus" tvg-name="ANIPLUS" tvg-logo="https://thehypedgeek.com/wp-content/uploads/2017/05/Aniplus-HD.jpg" tvg-chno="122" group-title="Anime",ANIPLUS
+https://cignalplaymaxcdn.qzz.io/aniplus/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cartoonito" tvg-name="Cartoonito" tvg-logo="https://cms.cignal.tv/Upload/Images/CARTOONITO_BT_LOGO_RGB.png" tvg-chno="75" group-title="Kids",Cartoonito
+https://cignalplaymaxcdn.qzz.io/cartoonito/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nickjr_hd" tvg-name="Nick Jr" tvg-logo="https://cms.cignal.tv/Upload/Images/Nick-Jr.jpg" tvg-chno="77" group-title="Kids",Nick Jr
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/nickjr_hd/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/nickjr_hd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="moonbug_kids" tvg-name="Moonbug Kids" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC696-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="78" group-title="Kids",Moonbug Kids
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/moonbug_kids/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/moonbug_kids/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="dreamworks_tagalized" tvg-name="DreamWorks Tagalized" tvg-logo="https://i.imgur.com/bXWyG1d.png" tvg-chno="73" group-title="Kids",DreamWorks Tagalized
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/dreamworks_tagalized/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/dreamworks_tagalized/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="boom_kids" tvg-name="Boom" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/306.png" tvg-chno="78" group-title="Kids",Boom
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/boom_kids/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/boom_kids/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="disney_channel_eu" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2022_Disney_Channel_logo.svg/1280px-2022_Disney_Channel_logo.svg.png" tvg-chno="71" group-title="Kids",Disney Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/disney_channel_eu/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/disney_channel_eu/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="disney_junior_eu" tvg-name="Disney Junior (EU)" tvg-logo="https://static.wikia.nocookie.net/tv-philippines/images/8/83/2024_Disney_Jr._Logo.png" tvg-chno="47" group-title="Kids",Disney Junior (EU)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/disney_junior_eu/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/disney_junior_eu/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_solarsports" tvg-name="SolarSports" tvg-logo="https://converse.nathcreqtives.com/api/logo/EsrZoIp8eNJdCbTV2t3p6GSa?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSEMtU1ZXRyIsImlhdCI6MTc4MTA3NjEzMywiZXhwIjoxNzg1NTY4Mjg1LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODU1NjgyODUsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vY2lnbmFscGxheW1heC52ZXJjZWwuYXBwIiwiaHR0cHM6Ly9jaWduYWxwbGF5bWF4cGhjb3JuZXIudndnc2FsdmFkb3Iud29ya2Vycy5kZXYiXX0.kokHjy1cb63ABjhHnrrxQZ0AaoOG4PrOYtba_a_pUYE" tvg-chno="96" group-title="Sports",SolarSports
+https://cignalplaymaxcdn.qzz.io/conv_local_solarsports/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="fifa" tvg-name="FIFA+" tvg-logo="https://images.seeklogo.com/logo-png/53/1/fifa-logo-png_seeklogo-537674.png" tvg-chno="99" group-title="Sports",FIFA+
+https://cignalplaymaxcdn.qzz.io/fifa/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="conv_local_edge_sports" tvg-name="Edge Sports" tvg-logo="https://converse.nathcreqtives.com/api/logo/LmqpYt4tUmqb8qpdc8rkBXZW?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSEMtU1ZXRyIsImlhdCI6MTc4MTA3NjEzMywiZXhwIjoxNzg1NTY4Mjg1LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODU1NjgyODUsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vY2lnbmFscGxheW1heC52ZXJjZWwuYXBwIiwiaHR0cHM6Ly9jaWduYWxwbGF5bWF4cGhjb3JuZXIudndnc2FsdmFkb3Iud29ya2Vycy5kZXYiXX0.kokHjy1cb63ABjhHnrrxQZ0AaoOG4PrOYtba_a_pUYE" tvg-chno="98" group-title="Sports",Edge Sports
+https://cignalplaymaxcdn.qzz.io/conv_local_edge_sports/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="fight_sports" tvg-name="Fight Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Fight_Sports_channel_logo.png/240px-Fight_Sports_channel_logo.png" tvg-chno="97" group-title="Sports",Fight Sports
+https://cignalplaymaxcdn.qzz.io/fight_sports/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fox_sports_1" tvg-name="Fox Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Fox_Sports_1_logo.svg/1200px-Fox_Sports_1_logo.svg.png" tvg-chno="271" group-title="Sports",Fox Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/fox_sports_1/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/fox_sports_1/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_filam_tv" tvg-name="Filam TV" tvg-logo="https://i.imgur.com/Filam.png" tvg-chno="1103" group-title="Entertainment",Filam TV
+https://cignalplaymaxcdn.qzz.io/conv_local_filam_tv/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_mindanow_network" tvg-name="Mindanow Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Mindanao_Network_TV_logo.png/240px-Mindanao_Network_TV_logo.png" tvg-chno="34" group-title="Entertainment",Mindanow Network
+https://cignalplaymaxcdn.qzz.io/conv_local_mindanow_network/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_cltv_36" tvg-name="CLTV 36" tvg-logo="https://converse.nathcreqtives.com/api/logo/2ct_fjVzAtYC9PUbCfMWILSB?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSEMtU1ZXRyIsImlhdCI6MTc4MTA3NjEzMywiZXhwIjoxNzg1NTY4Mjg1LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODU1NjgyODUsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vY2lnbmFscGxheW1heC52ZXJjZWwuYXBwIiwiaHR0cHM6Ly9jaWduYWxwbGF5bWF4cGhjb3JuZXIudndnc2FsdmFkb3Iud29ya2Vycy5kZXYiXX0.kokHjy1cb63ABjhHnrrxQZ0AaoOG4PrOYtba_a_pUYE" tvg-chno="55" group-title="Entertainment",CLTV 36
+https://cignalplaymaxcdn.qzz.io/conv_local_cltv_36/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="rock_entertainment" tvg-name="Rock Entertainment" tvg-logo="https://cms.cignal.tv/Upload/Images/Rock-Entertainment.jpg" tvg-chno="126" group-title="Entertainment",Rock Entertainment
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/rock_entertainment/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/rock_entertainment/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="kapatid_channel" tvg-name="Kapatid Channel" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/F222CD8E-81E5-4D77-AC2F-86E7129C2DD7/0-16x9.jpg?width=1980" tvg-chno="57" group-title="Entertainment",Kapatid Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/kapatid_channel/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/kapatid_channel/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="https://cms.cignal.tv/Upload/Images/AXN-New-Logo-(Black).jpg" tvg-chno="121" group-title="Entertainment",AXN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/axn/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/axn/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="celestial_movies_pinoy_zte" tvg-name="Celestial Movies Pinoy" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="46" group-title="Movies",Celestial Movies Pinoy
+https://cignalplaymaxcdn.qzz.io/celestial_movies_pinoy_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="france24_zte" tvg-name="France24" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="320" group-title="News",France24
+https://cignalplaymaxcdn.qzz.io/france24_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="3abn_zte" tvg-name="3Abn" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="34" group-title="Religious",3Abn
+https://cignalplaymaxcdn.qzz.io/3abn_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="abc_australia_zte" tvg-name="Abc Australia" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="323" group-title="International",Abc Australia
+https://cignalplaymaxcdn.qzz.io/abc_australia_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="aljazeera_zte" tvg-name="Aljazeera" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="314" group-title="News",Aljazeera
+https://cignalplaymaxcdn.qzz.io/aljazeera_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="anc_hd_zte" tvg-name="Anc Hd" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="27" group-title="News",Anc Hd
+https://cignalplaymaxcdn.qzz.io/anc_hd_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="arirang_zte" tvg-name="Arirang" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="333" group-title="International",Arirang
+https://cignalplaymaxcdn.qzz.io/arirang_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="advisory_channel_zte" tvg-name="Advisory Channel" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="292" group-title="International",Advisory Channel
+https://cignalplaymaxcdn.qzz.io/advisory_channel_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="aliw_channel_23_zte" tvg-name="Aliw Channel 23" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="23" group-title="International",Aliw Channel 23
+https://cignalplaymaxcdn.qzz.io/aliw_channel_23_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="animax_zte" tvg-name="Animax" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="60" group-title="Kids",Animax
+https://cignalplaymaxcdn.qzz.io/animax_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="bbc_news_zte" tvg-name="Bbc News" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="303" group-title="News",Bbc News
+https://cignalplaymaxcdn.qzz.io/bbc_news_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="bbc_world_news_zte" tvg-name="Bbc World News" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="304" group-title="News",Bbc World News
+https://cignalplaymaxcdn.qzz.io/bbc_world_news_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="bs_nittele_zte" tvg-name="Bs Nittele" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="337" group-title="International",Bs Nittele
+https://cignalplaymaxcdn.qzz.io/bs_nittele_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="bs_premium_zte" tvg-name="Bs Premium" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="338" group-title="International",Bs Premium
+https://cignalplaymaxcdn.qzz.io/bs_premium_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="ccm_movies_zte" tvg-name="Ccm Movies" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="48" group-title="Movies",Ccm Movies
+https://cignalplaymaxcdn.qzz.io/ccm_movies_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="cgtn_documentary_zte" tvg-name="Cgtn Documentary" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="319" group-title="News",Cgtn Documentary
+https://cignalplaymaxcdn.qzz.io/cgtn_documentary_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="cnn_international_zte" tvg-name="Cnn International" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="302" group-title="News",Cnn International
+https://cignalplaymaxcdn.qzz.io/cnn_international_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="dd_national_zte" tvg-name="Dd National" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="326" group-title="International",Dd National
+https://cignalplaymaxcdn.qzz.io/dd_national_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="discovery_asia_zte" tvg-name="Discovery Asia" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="201" group-title="Lifestyle",Discovery Asia
+https://cignalplaymaxcdn.qzz.io/discovery_asia_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="da_ai_television_zte" tvg-name="Da Ai Television" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="327" group-title="International",Da Ai Television
+https://cignalplaymaxcdn.qzz.io/da_ai_television_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="euro_news_zte" tvg-name="Euro News" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="307" group-title="News",Euro News
+https://cignalplaymaxcdn.qzz.io/euro_news_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="fox_news_zte" tvg-name="Fox News" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="301" group-title="News",Fox News
+https://cignalplaymaxcdn.qzz.io/fox_news_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="fashion_tv_zte" tvg-name="Fashion Tv" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="290" group-title="Lifestyle",Fashion Tv
+https://cignalplaymaxcdn.qzz.io/fashion_tv_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="filam_tv_zte" tvg-name="Filam Tv" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="325" group-title="International",Filam Tv
+https://cignalplaymaxcdn.qzz.io/filam_tv_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="gnn_zte" tvg-name="Gnn" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="29" group-title="News",Gnn
+https://cignalplaymaxcdn.qzz.io/gnn_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="hbo_zte" tvg-name="Hbo" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="210" group-title="Movies",Hbo
+https://cignalplaymaxcdn.qzz.io/hbo_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="hntv_zte" tvg-name="Hntv" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="334" group-title="International",Hntv
+https://cignalplaymaxcdn.qzz.io/hntv_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="kbs_2_zte" tvg-name="Kbs 2" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="335" group-title="International",Kbs 2
+https://cignalplaymaxcdn.qzz.io/kbs_2_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="kix_zte" tvg-name="Kix" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="123" group-title="Movies",Kix
+https://cignalplaymaxcdn.qzz.io/kix_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="lifetime_zte" tvg-name="Lifetime" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="124" group-title="Movies",Lifetime
+https://cignalplaymaxcdn.qzz.io/lifetime_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="lotus_macao_zte" tvg-name="Lotus Macao" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="329" group-title="International",Lotus Macao
+https://cignalplaymaxcdn.qzz.io/lotus_macao_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="nhk_bs_zte" tvg-name="Nhk Bs" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="328" group-title="International",Nhk Bs
+https://cignalplaymaxcdn.qzz.io/nhk_bs_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="nick_jr_zte" tvg-name="Nick Jr" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="65" group-title="Kids",Nick Jr
+https://cignalplaymaxcdn.qzz.io/nick_jr_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="nickelodeon_zte" tvg-name="Nickelodeon" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="64" group-title="Kids",Nickelodeon
+https://cignalplaymaxcdn.qzz.io/nickelodeon_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="one_news_zte" tvg-name="One News" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="19" group-title="News",One News
+https://cignalplaymaxcdn.qzz.io/one_news_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="one_ph_zte" tvg-name="One Ph" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="11" group-title="Entertainment",One Ph
+https://cignalplaymaxcdn.qzz.io/one_ph_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="one_sports_zte" tvg-name="One Sports" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="78" group-title="Sports",One Sports
+https://cignalplaymaxcdn.qzz.io/one_sports_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="oras_ng_himala_zte" tvg-name="Oras Ng Himala" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="37" group-title="Religious",Oras Ng Himala
+https://cignalplaymaxcdn.qzz.io/oras_ng_himala_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="pinoy_xtream_channel_zte" tvg-name="Pinoy Xtream Channel" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="293" group-title="Entertainment",Pinoy Xtream Channel
+https://cignalplaymaxcdn.qzz.io/pinoy_xtream_channel_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="phoenix_info_news_zte" tvg-name="Phoenix Info News" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="322" group-title="News",Phoenix Info News
+https://cignalplaymaxcdn.qzz.io/phoenix_info_news_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="premier_football_zte" tvg-name="Premier Football" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="279" group-title="Sports",Premier Football
+https://cignalplaymaxcdn.qzz.io/premier_football_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="premier_sports_zte" tvg-name="Premier Sports" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="270" group-title="Sports",Premier Sports
+https://cignalplaymaxcdn.qzz.io/premier_sports_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="premier_sports_2_zte" tvg-name="Premier Sports 2" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="271" group-title="Sports",Premier Sports 2
+https://cignalplaymaxcdn.qzz.io/premier_sports_2_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="rj_tv_zte" tvg-name="Rj Tv" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="29" group-title="Entertainment",Rj Tv
+https://cignalplaymaxcdn.qzz.io/rj_tv_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="rjtv_29_zte" tvg-name="Rjtv 29" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="29" group-title="Entertainment",Rjtv 29
+https://cignalplaymaxcdn.qzz.io/rjtv_29_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="rai_italia_zte" tvg-name="Rai Italia" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="330" group-title="International",Rai Italia
+https://cignalplaymaxcdn.qzz.io/rai_italia_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="sea_today_zte" tvg-name="Sea Today" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="315" group-title="News",Sea Today
+https://cignalplaymaxcdn.qzz.io/sea_today_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="star_1_zte" tvg-name="Star 1" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="118" group-title="Entertainment",Star 1
+https://cignalplaymaxcdn.qzz.io/star_1_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="saudi_tv_zte" tvg-name="Saudi Tv" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="324" group-title="International",Saudi Tv
+https://cignalplaymaxcdn.qzz.io/saudi_tv_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="spotlight_tv_zte" tvg-name="Spotlight Tv" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="294" group-title="Entertainment",Spotlight Tv
+https://cignalplaymaxcdn.qzz.io/spotlight_tv_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="tap_movies_zte" tvg-name="Tap Movies" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="52" group-title="Movies",Tap Movies
+https://cignalplaymaxcdn.qzz.io/tap_movies_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="tap_sports_zte" tvg-name="Tap Sports" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="83" group-title="Sports",Tap Sports
+https://cignalplaymaxcdn.qzz.io/tap_sports_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="tbn_asia_zte" tvg-name="Tbn Asia" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="36" group-title="Religious",Tbn Asia
+https://cignalplaymaxcdn.qzz.io/tbn_asia_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="tv5_monde_zte" tvg-name="Tv5 Monde" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="331" group-title="International",Tv5 Monde
+https://cignalplaymaxcdn.qzz.io/tv5_monde_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="tve_internacional_zte" tvg-name="Tve Internacional" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="332" group-title="International",Tve Internacional
+https://cignalplaymaxcdn.qzz.io/tve_internacional_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="the_manila_hotel_zte" tvg-name="The Manila Hotel" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="291" group-title="Lifestyle",The Manila Hotel
+https://cignalplaymaxcdn.qzz.io/the_manila_hotel_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="usa_today_zte" tvg-name="Usa Today" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="321" group-title="News",Usa Today
+https://cignalplaymaxcdn.qzz.io/usa_today_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="wion_news_zte" tvg-name="Wion News" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="316" group-title="News",Wion News
+https://cignalplaymaxcdn.qzz.io/wion_news_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="xing_kong_zte" tvg-name="Xing Kong" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="336" group-title="International",Xing Kong
+https://cignalplaymaxcdn.qzz.io/xing_kong_zte/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="cartoon_network_converge_mpd" tvg-name="Cartoon Network (Converge MPD)" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png" tvg-chno="58" group-title="Kids",Cartoon Network (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/cartoon_network_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="tap_tv_converge_mpd" tvg-name="Tap TV (Converge MPD)" tvg-logo="https://i.imgur.com/KJaSftF.png" tvg-chno="83" group-title="Entertainment",Tap TV (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/tap_tv_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="tap_edge_converge_mpd" tvg-name="Tap Edge (Converge MPD)" tvg-logo="https://i.imgur.com/3YvDUjL.png" tvg-chno="85" group-title="Sports",Tap Edge (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/tap_edge_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="kapamilya_converge_mpd" tvg-name="Kapamilya Channel HD (Converge MPD)" tvg-logo="https://i.imgur.com/WcYS3S3.png" tvg-chno="8" group-title="Free TV",Kapamilya Channel HD (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/kapamilya_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="tap_action_flix_converge_mpd" tvg-name="Tap Action Flix (Converge MPD)" tvg-logo="https://i.ibb.co/wgjPKFW/IMG-20241029-111906.png" tvg-chno="52" group-title="Movies",Tap Action Flix (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/tap_action_flix_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="cinemo_converge_mpd" tvg-name="Cinemo! (Converge MPD)" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" tvg-chno="48" group-title="Movies",Cinemo! (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/cinemo_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="myx_converge_mpd" tvg-name="MYX Philippines (Converge MPD)" tvg-logo="https://i.imgur.com/CIPTNnT.png" tvg-chno="26" group-title="Entertainment",MYX Philippines (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/myx_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="solarflix_converge_mpd" tvg-name="Solarflix (Converge MPD)" tvg-logo="https://i.imgur.com/OgBDJ75.png" tvg-chno="49" group-title="Movies",Solarflix (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/solarflix_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="dzrh_converge_mpd" tvg-name="DZRH TV (Converge MPD)" tvg-logo="https://static.wikia.nocookie.net/russel/images/6/62/DZRH_TV_Logo_November_2021.png/revision/latest?cb=20211215134648" tvg-chno="28" group-title="News",DZRH TV (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/dzrh_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="dw_news_converge_mpd" tvg-name="DW News (Converge MPD)" tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/deutsche_welle-brandlogo.net_.png" tvg-chno="309" group-title="News",DW News (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/dw_news_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="hallypop_converge_mpd" tvg-name="Hallypop (Converge MPD)" tvg-logo="https://magmediaintl.com/images/logochannels/Hallypop%20Logo.png" tvg-chno="312" group-title="Entertainment",Hallypop (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/hallypop_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="mindanow_converge_mpd" tvg-name="Mindanow Network (Converge MPD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqndReZ8wqIcJO39ZUlQnjeayPJ-11_bVnow&s" tvg-chno="16" group-title="News",Mindanow Network (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/mindanow_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="cinemax_converge_mpd" tvg-name="Cinemax (Converge MPD)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" tvg-chno="103" group-title="Movies",Cinemax (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/cinemax_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="light_tv_converge_mpd" tvg-name="Light TV (Converge MPD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkvWEPQltk-Xq-ixCjPdOGxoqgIlMsc095A&s" tvg-chno="30" group-title="Free TV",Light TV (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/light_tv_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="untv_converge_mpd" tvg-name="UNTV (Converge MPD)" tvg-logo="https://static.wikia.nocookie.net/dxs/images/c/c3/UNTV_Public_Service_Logo_2022.png/revision/latest?cb=20221014202457" tvg-chno="37" group-title="News",UNTV (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/untv_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="net25_converge_mpd" tvg-name="NET 25 (Converge MPD)" tvg-logo="https://i.imgur.com/pPPubX5.png" tvg-chno="27" group-title="Free TV",NET 25 (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/net25_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="cinema_one_converge_mpd" tvg-name="Cinema One (Converge MPD)" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/94/Cinema_One_Logo_2020.png" tvg-chno="45" group-title="Movies",Cinema One (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/cinema_one_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="solar_sports_converge_mpd" tvg-name="SolarSports (Converge MPD)" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/eb/Solar_Sports_Logo_2022.png/revision/latest?cb=20211226131005" tvg-chno="78" group-title="Sports",SolarSports (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/solar_sports_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="ptv4_converge_mpd" tvg-name="PTV4 (Converge MPD)" tvg-logo="https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png/revision/latest?cb=20171019065428" tvg-chno="4" group-title="Free TV",PTV4 (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/ptv4_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="ibc13_converge_mpd" tvg-name="IBC 13 (Converge MPD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/IBC_13_Logo_2012.png/revision/latest?cb=20170830080345" tvg-chno="13" group-title="Free TV",IBC 13 (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/ibc13_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="rptv_converge_mpd" tvg-name="RPTV (Converge MPD)" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/fb/RPTV_Alternative_Logo_2024.png/revision/latest?cb=20240305140432" tvg-chno="20" group-title="Free TV",RPTV (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/rptv_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="ewtn_converge_mpd" tvg-name="EWTN (Converge MPD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq8NjV5sqkKOgSpV7-Nj5Dd0KHMVhrtW6ukg&s" tvg-chno="34" group-title="Free TV",EWTN (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/ewtn_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="warner_converge_mpd" tvg-name="Warner TV (Converge MPD)" tvg-logo="https://i.imgur.com/vGEL2Ne.png" tvg-chno="235" group-title="Entertainment",Warner TV (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/warner_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="cna_converge_mpd" tvg-name="Channel News Asia (Converge MPD)" tvg-logo="https://i.imgur.com/vm9Z0uV.png" tvg-chno="303" group-title="News",Channel News Asia (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/cna_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="bilyonaryo_converge_mpd" tvg-name="Bilyonaryo Channel (Converge MPD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxvjeBIthYiEaZHeVeYpDicIlOTdv3G6lzoal3VM2xVzWu_J7XxM657oz&s=10" tvg-chno="29" group-title="News",Bilyonaryo Channel (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/bilyonaryo_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="nhk_converge_mpd" tvg-name="NHK World Japan (Converge MPD)" tvg-logo="https://i.imgur.com/3zp7a0B.png" tvg-chno="308" group-title="News",NHK World Japan (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/nhk_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="living_asia_converge_mpd" tvg-name="Living Asia Channel (Converge MPD)" tvg-logo="https://i.imgur.com/Wsj7iPd.png" tvg-chno="59" group-title="Lifestyle",Living Asia Channel (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/living_asia_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="smni_converge_mpd" tvg-name="SMNI Channel (Converge MPD)" tvg-logo="https://i.imgur.com/WL2ugeZ.png" tvg-chno="38" group-title="News",SMNI Channel (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/smni_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="rock_tv_converge_mpd" tvg-name="Rock TV of Manila (Converge MPD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Rock_Manila_Logo_2023.png/revision/latest?cb=20240316065316" tvg-chno="69" group-title="Entertainment",Rock TV of Manila (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/rock_tv_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="anc_converge_mpd" tvg-name="ANC (Converge MPD)" tvg-logo="https://i.imgur.com/Bcu69bU.png" tvg-chno="27" group-title="News",ANC (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/anc_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="cctv4_converge_mpd" tvg-name="CCTV4 (Converge MPD)" tvg-logo="https://i.imgur.com/HBisPOA.png" tvg-chno="302" group-title="News",CCTV4 (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/cctv4_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="dzmm_converge_mpd" tvg-name="DZMM Teleradyo (Converge MPD)" tvg-logo="https://i.imgur.com/npj41pk.png" tvg-chno="305" group-title="News",DZMM Teleradyo (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/dzmm_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="thrill_converge_mpd" tvg-name="THRILL (Converge MPD)" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9c/Thrill_logo_2014.png" tvg-chno="104" group-title="Movies",THRILL (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/thrill_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="metro_channel_converge_mpd" tvg-name="Metro Channel (Converge MPD)" tvg-logo="https://static.wikia.nocookie.net/russel/images/c/c4/Metro_Channel_White_Logo_2018.png/revision/latest?cb=20210301130321" tvg-chno="60" group-title="Lifestyle",Metro Channel (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/metro_channel_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="cltv36_converge_mpd" tvg-name="CLTV 36 (Converge MPD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Cl_tv_36_ph.png/revision/latest?cb=20130823135759" tvg-chno="31" group-title="News",CLTV 36 (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/cltv36_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="radio_maria_converge_mpd" tvg-name="Radio Maria (Converge MPD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Un5_BaTlKCiwEIH0RM1Kf2uuEWs7tC7rRQ&s" tvg-chno="35" group-title="Free TV",Radio Maria (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/radio_maria_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="edge_sports_converge_mpd" tvg-name="Edge Sports (Converge MPD)" tvg-logo="https://ewsat.com/img/EDGE_SPORT.png" tvg-chno="86" group-title="Sports",Edge Sports (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/edge_sports_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="kbs_world_converge_mpd" tvg-name="KBS World (Converge MPD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s" tvg-chno="311" group-title="Entertainment",KBS World (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/kbs_world_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="tv5_converge_mpd" tvg-name="TV5 (Converge MPD)" tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" tvg-chno="5" group-title="Free TV",TV5 (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/tv5_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="cg_warnerhd" tvg-name="Warner TV" tvg-logo="https://i.imgur.com/vGEL2Ne.png" tvg-chno="235" group-title="Entertainment",Warner TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/cg_warnerhd/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/cg_warnerhd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="dr_nickjr" tvg-name="Nick Jr." tvg-logo="https://i.imgur.com/4MozyqM.png" tvg-chno="57" group-title="Kids",Nick Jr.
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/dr_nickjr/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/dr_nickjr/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="dr_cctv4" tvg-name="CCTV4" tvg-logo="https://i.imgur.com/HBisPOA.png" tvg-chno="302" group-title="News",CCTV4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/dr_cctv4/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/dr_cctv4/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="dr_tapsports" tvg-name="Tap Sports" tvg-logo="https://i.imgur.com/ZsWDiRF.png" tvg-chno="119" group-title="Sports",Tap Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/dr_tapsports/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/dr_tapsports/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="hitsnow" tvg-name="HitsNow" tvg-logo="https://i.imgur.com/v2tkO4v.png" tvg-chno="128" group-title="Entertainment",HitsNow
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/hitsnow/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/hitsnow/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="lifetime" tvg-name="Lifetime" tvg-logo="https://cms.cignal.tv/Upload/Images/Lifetime-Logo.jpg" tvg-chno="123" group-title="Entertainment",Lifetime
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/lifetime/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/lifetime/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="rock_action" tvg-name="Rock Action" tvg-logo="https://cms.cignal.tv/Upload/Images/ROCK%20ACTION_3D_HIGH%20RES_BLACK_Print.png" tvg-chno="125" group-title="Entertainment",Rock Action
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/rock_action/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/rock_action/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_tap_tv" tvg-name="Tap TV" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC592-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="65" group-title="Entertainment",Tap TV
+https://cignalplaymaxcdn.qzz.io/conv_local_tap_tv/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_xingkong" tvg-name="Xingkong" tvg-logo="https://converse.nathcreqtives.com/api/logo/LaQn_7qbrHIqiFzg9bdbA7JG?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSEMtU1ZXRyIsImlhdCI6MTc4MTA3NjEzMywiZXhwIjoxNzg1NTY4Mjg1LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODU1NjgyODUsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vY2lnbmFscGxheW1heC52ZXJjZWwuYXBwIiwiaHR0cHM6Ly9jaWduYWxwbGF5bWF4cGhjb3JuZXIudndnc2FsdmFkb3Iud29ya2Vycy5kZXYiXX0.kokHjy1cb63ABjhHnrrxQZ0AaoOG4PrOYtba_a_pUYE" tvg-chno="188" group-title="Chinese",Xingkong
+https://cignalplaymaxcdn.qzz.io/conv_local_xingkong/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="crime_investigation" tvg-name="Crime + Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Crime_%2B_Investigation_logo.png/240px-Crime_%2B_Investigation_logo.png" tvg-chno="151" group-title="Documentary",Crime + Investigation
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/crime_investigation/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/crime_investigation/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="lotus_macau" tvg-name="Lotus Macau" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/C6AB65CE-37A0-4040-ABA7-021C669DBEE1/0-16x9.jpg?width=1980" tvg-chno="185" group-title="Chinese",Lotus Macau
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/lotus_macau/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/lotus_macau/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_tap_edge" tvg-name="Tap Edge" tvg-logo="https://converse.nathcreqtives.com/api/logo/95YEu1wE3NL6M8vXtknK_4TQ?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSEMtU1ZXRyIsImlhdCI6MTc4MTA3NjEzMywiZXhwIjoxNzg1NTY4Mjg1LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODU1NjgyODUsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vY2lnbmFscGxheW1heC52ZXJjZWwuYXBwIiwiaHR0cHM6Ly9jaWduYWxwbGF5bWF4cGhjb3JuZXIudndnc2FsdmFkb3Iud29ya2Vycy5kZXYiXX0.kokHjy1cb63ABjhHnrrxQZ0AaoOG4PrOYtba_a_pUYE" tvg-chno="69" group-title="Movies",Tap Edge
+https://cignalplaymaxcdn.qzz.io/conv_local_tap_edge/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_phoenix_info_news" tvg-name="Phoenix Info News" tvg-logo="https://converse.nathcreqtives.com/api/logo/ysXcwutml8ZvDrv13wyB-9hB?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSEMtU1ZXRyIsImlhdCI6MTc4MTA3NjEzMywiZXhwIjoxNzg1NTY4Mjg1LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODU1NjgyODUsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vY2lnbmFscGxheW1heC52ZXJjZWwuYXBwIiwiaHR0cHM6Ly9jaWduYWxwbGF5bWF4cGhjb3JuZXIudndnc2FsdmFkb3Iud29ya2Vycy5kZXYiXX0.kokHjy1cb63ABjhHnrrxQZ0AaoOG4PrOYtba_a_pUYE" tvg-chno="189" group-title="Chinese",Phoenix Info News
+https://cignalplaymaxcdn.qzz.io/conv_local_phoenix_info_news/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="bloomberg_cignal" tvg-name="Bloomberg TV" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AA47C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="134" group-title="News",Bloomberg TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/bloomberg_cignal/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/bloomberg_cignal/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="cna" tvg-name="Channel NewsAsia" tvg-logo="https://i.imgur.com/l2uvn2Y.png" tvg-chno="152" group-title="News",Channel NewsAsia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/cna/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/cna/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="aljazeera" tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/tZpxQT9.png" tvg-chno="154" group-title="News",Al Jazeera English
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/aljazeera/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/aljazeera/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="bbcworldnews" tvg-name="BBC World News" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A847E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="153" group-title="News",BBC World News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/bbcworldnews/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/bbcworldnews/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_dw_news" tvg-name="DW News" tvg-logo="https://converse.nathcreqtives.com/api/logo/lQ00zsfHPewggHeN41WWOtdh?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSEMtU1ZXRyIsImlhdCI6MTc4MTA3NjEzMywiZXhwIjoxNzg1NTY4Mjg1LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODU1NjgyODUsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vY2lnbmFscGxheW1heC52ZXJjZWwuYXBwIiwiaHR0cHM6Ly9jaWduYWxwbGF5bWF4cGhjb3JuZXIudndnc2FsdmFkb3Iud29ya2Vycy5kZXYiXX0.kokHjy1cb63ABjhHnrrxQZ0AaoOG4PrOYtba_a_pUYE" tvg-chno="158" group-title="News",DW News
+https://cignalplaymaxcdn.qzz.io/conv_local_dw_news/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="discovery_cignal" tvg-name="Discovery Channel" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A734E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="140" group-title="Documentary",Discovery Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/discovery_cignal/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/discovery_cignal/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="animal_planet" tvg-name="Animal Planet" tvg-logo="https://cms.cignal.tv/Upload/Images/Animal-Planet.jpg" tvg-chno="142" group-title="Documentary",Animal Planet
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/animal_planet/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/animal_planet/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="deped_channel" tvg-name="DepEd Channel" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9590-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1920" tvg-chno="177" group-title="Educational",DepEd Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/deped_channel/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/deped_channel/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="knowledge_channel" tvg-name="Knowledge Channel" tvg-logo="https://cms.cignal.tv/Upload/Images/Knowledge-Channel.jpg" tvg-chno="163" group-title="Educational",Knowledge Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/knowledge_channel/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/knowledge_channel/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_myx_philippines" tvg-name="MYX Philippines" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/MYX_logo.svg/240px-MYX_logo.svg.png" tvg-chno="80" group-title="Music",MYX Philippines
+https://cignalplaymaxcdn.qzz.io/conv_local_myx_philippines/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_hallypop" tvg-name="Hallypop" tvg-logo="https://converse.nathcreqtives.com/api/logo/LwJVQ6BscD11Sin-izDU6jig?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSEMtU1ZXRyIsImlhdCI6MTc4MTA3NjEzMywiZXhwIjoxNzg1NTY4Mjg1LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODU1NjgyODUsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vY2lnbmFscGxheW1heC52ZXJjZWwuYXBwIiwiaHR0cHM6Ly9jaWduYWxwbGF5bWF4cGhjb3JuZXIudndnc2FsdmFkb3Iud29ya2Vycy5kZXYiXX0.kokHjy1cb63ABjhHnrrxQZ0AaoOG4PrOYtba_a_pUYE" tvg-chno="84" group-title="Korean",Hallypop
+https://cignalplaymaxcdn.qzz.io/conv_local_hallypop/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="arirang" tvg-name="Arirang" tvg-logo="https://i.imgur.com/TmoPvTQ.png" tvg-chno="186" group-title="Korean",Arirang
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/arirang/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/arirang/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="nhk_japan" tvg-name="NHK Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/NHK_logo.svg/240px-NHK_logo.svg.png" tvg-chno="156" group-title="Japanese",NHK Japan
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/nhk_japan/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/nhk_japan/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="abcaustralia" tvg-name="ABC Australia" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ACCD6-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="180" group-title="News",ABC Australia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/abcaustralia/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/abcaustralia/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="cgtn_english" tvg-name="CGTN Documentary" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/DEFC81EE-883B-446F-BD47-21F5B7FE0730/0-16x9.jpg?width=1980" tvg-chno="157" group-title="Documentary",CGTN Documentary
+https://cignalplaymaxcdn.qzz.io/cgtn_english/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv5monde" tvg-name="TV5 Monde" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ADB5E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="182" group-title="Entertainment",TV5 Monde
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/tv5monde/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/tv5monde/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="france24" tvg-name="France 24" tvg-logo="https://cms.cignal.tv/Upload/Images/France-24.png" tvg-chno="155" group-title="News",France 24
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/france24/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/france24/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="kbs_world" tvg-name="KBS World" tvg-logo="https://cms.cignal.tv/Upload/Images/KBS.png" tvg-chno="187" group-title="Korean",KBS World
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/kbs_world/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/kbs_world/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_living_asia_channel" tvg-name="Living Asia Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Living_Asia_Channel_logo.svg/240px-Living_Asia_Channel_logo.svg.png" tvg-chno="85" group-title="Entertainment",Living Asia Channel
+https://cignalplaymaxcdn.qzz.io/conv_local_living_asia_channel/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_inc_tv" tvg-name="INC TV" tvg-logo="https://converse.nathcreqtives.com/api/logo/0xTUupuZQu0N7Nu3hd3oxJnY?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSEMtU1ZXRyIsImlhdCI6MTc4MTA3NjEzMywiZXhwIjoxNzg1NTY4Mjg1LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODU1NjgyODUsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vY2lnbmFscGxheW1heC52ZXJjZWwuYXBwIiwiaHR0cHM6Ly9jaWduYWxwbGF5bWF4cGhjb3JuZXIudndnc2FsdmFkb3Iud29ya2Vycy5kZXYiXX0.kokHjy1cb63ABjhHnrrxQZ0AaoOG4PrOYtba_a_pUYE" tvg-chno="193" group-title="Religious",INC TV
+https://cignalplaymaxcdn.qzz.io/conv_local_inc_tv/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_ewtn" tvg-name="EWTN" tvg-logo="https://converse.nathcreqtives.com/api/logo/P7lDqoxJbhHLD8u30grVzgUI?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSEMtU1ZXRyIsImlhdCI6MTc4MTA3NjEzMywiZXhwIjoxNzg1NTY4Mjg1LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODU1NjgyODUsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vY2lnbmFscGxheW1heC52ZXJjZWwuYXBwIiwiaHR0cHM6Ly9jaWduYWxwbGF5bWF4cGhjb3JuZXIudndnc2FsdmFkb3Iud29ya2Vycy5kZXYiXX0.kokHjy1cb63ABjhHnrrxQZ0AaoOG4PrOYtba_a_pUYE" tvg-chno="191" group-title="Religious",EWTN
+https://cignalplaymaxcdn.qzz.io/conv_local_ewtn/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_untv" tvg-name="UNTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/240px-UNTV-Logo-2016.svg.png" tvg-chno="33" group-title="Religious",UNTV
+https://cignalplaymaxcdn.qzz.io/conv_local_untv/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_light_tv" tvg-name="Light TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Light_TV_2025_logo.svg/240px-Light_TV_2025_logo.svg.png" tvg-chno="35" group-title="Religious",Light TV
+https://cignalplaymaxcdn.qzz.io/conv_local_light_tv/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_oras_ng_himala" tvg-name="Oras Ng Himala" tvg-logo="https://converse.nathcreqtives.com/api/logo/zdpVPL5zfAsw1nans_aBBWmG?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSEMtU1ZXRyIsImlhdCI6MTc4MTA3NjEzMywiZXhwIjoxNzg1NTY4Mjg1LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODU1NjgyODUsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vY2lnbmFscGxheW1heC52ZXJjZWwuYXBwIiwiaHR0cHM6Ly9jaWduYWxwbGF5bWF4cGhjb3JuZXIudndnc2FsdmFkb3Iud29ya2Vycy5kZXYiXX0.kokHjy1cb63ABjhHnrrxQZ0AaoOG4PrOYtba_a_pUYE" tvg-chno="193" group-title="Religious",Oras Ng Himala
+https://cignalplaymaxcdn.qzz.io/conv_local_oras_ng_himala/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_smni_channel" tvg-name="SMNI Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/SMNI_logo.png/240px-SMNI_logo.png" tvg-chno="32" group-title="Religious",SMNI Channel
+https://cignalplaymaxcdn.qzz.io/conv_local_smni_channel/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="tvmaria" tvg-name="TV Maria" tvg-logo="https://i.imgur.com/QbZlrNY.png" tvg-chno="192" group-title="Religious",TV Maria
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/tvmaria/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/tvmaria/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="foodnetwork_hd" tvg-name="Food Network HD" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9496-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="145" group-title="Lifestyle",Food Network HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/foodnetwork_hd/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/foodnetwork_hd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="hgtv_hd" tvg-name="HGTV HD" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A858C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="144" group-title="Lifestyle",HGTV HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/hgtv_hd/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/hgtv_hd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="asianfoodnetwork" tvg-name="Asian Food Network" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AB020-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="145" group-title="Lifestyle",Asian Food Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/asianfoodnetwork/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/asianfoodnetwork/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="fashiontv_hd" tvg-name="FashionTV HD" tvg-logo="https://i.imgur.com/bpj05Tv.png" tvg-chno="147" group-title="Lifestyle",FashionTV HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/fashiontv_hd/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/fashiontv_hd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_hbo_fhd" tvg-name="HBO FHD" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/B741DD7A-A7F8-4F8A-A549-9EF411020F9D/0-16x9.jpg?width=1980" tvg-chno="210" group-title="Movies",HBO FHD
+https://cignalplaymaxcdn.qzz.io/conv_local_hbo_fhd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="hbo_hd" tvg-name="HBO HD" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/B741DD7A-A7F8-4F8A-A549-9EF411020F9D/0-16x9.jpg?width=1980" tvg-chno="210" group-title="Movies",HBO HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/hbo_hd/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/hbo_hd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="hbo_family" tvg-name="HBO Family" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/HBO-Family.jpg" tvg-chno="211" group-title="Movies",HBO Family
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/hbo_family/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/hbo_family/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax" tvg-logo="https://cms.cignal.tv/Upload/Images/Cinemax.jpg" tvg-chno="215" group-title="Movies",Cinemax
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/cinemax/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/cinemax/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="hbo_signature" tvg-name="HBO Signature" tvg-logo="https://cms.cignal.tv/Upload/Images/HB-O-SIG1.png" tvg-chno="213" group-title="Movies",HBO Signature
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/hbo_signature/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/hbo_signature/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="hbo_hits" tvg-name="HBO Hits" tvg-logo="https://cms.cignal.tv/Upload/Images/HBO%20Hits-1.jpg" tvg-chno="214" group-title="Movies",HBO Hits
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/hbo_hits/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/hbo_hits/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="tapmovies_hd" tvg-name="TAP Movies HD" tvg-logo="https://i.imgur.com/nxGBYJt.png" tvg-chno="119" group-title="Movies",TAP Movies HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/tapmovies_hd/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/tapmovies_hd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="mn_hd" tvg-name="MN+ HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/MN%2B_HD.jpg" tvg-chno="116" group-title="Movies",MN+ HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/mn_hd/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/mn_hd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="asiancrush" tvg-name="Asiancrush" tvg-logo="https://unlocator.com/wp-content/uploads/2019/02/asiancrush-1.svg" tvg-chno="129" group-title="Movies",Asiancrush
+https://cignalplaymaxcdn.qzz.io/asiancrush/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mnx_hd" tvg-name="MNX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/73/MNX_logo.png" tvg-chno="118" group-title="Movies",MNX HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/mnx_hd/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/mnx_hd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="cartoon_network" tvg-name="Cartoon Network" tvg-logo="https://cms.cignal.tv/Upload/Images/Cartoon-Network-2022-Logo.jpg" tvg-chno="76" group-title="Kids",Cartoon Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/cartoon_network/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/cartoon_network/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="dreamworks_hd" tvg-name="DreamWorks HD" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A5698-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="73" group-title="Kids",DreamWorks HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/dreamworks_hd/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/dreamworks_hd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="discovery_kids_hd_mexico" tvg-name="Discovery Kids HD Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/250px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" tvg-chno="212" group-title="Kids",Discovery Kids HD Mexico
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/discovery_kids_hd_mexico/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/discovery_kids_hd_mexico/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="minimax" tvg-name="Minimax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Minimax_2021.png/revision/latest?cb=20210701112736" tvg-chno="74" group-title="Kids",Minimax
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/minimax/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/minimax/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="duck_tv" tvg-name="Duck TV" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="78" group-title="Kids",Duck TV
+https://cignalplaymaxcdn.qzz.io/duck_tv/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="kix_ph" tvg-name="KIX Philippines" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7EE8-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="124" group-title="Entertainment",KIX Philippines
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/kix_ph/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/kix_ph/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="warnertv_hd_cignal" tvg-name="Warner TV HD" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ABA02-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="235" group-title="Entertainment",Warner TV HD
+https://cignalplaymaxcdn.qzz.io/warnertv_hd_cignal/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="hits_hd" tvg-name="Hits HD" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A8BB8-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="127" group-title="Entertainment",Hits HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/hits_hd/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/hits_hd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="tvn_premium_hd" tvg-name="TVN Premium HD" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/66B5278C-75EA-4D93-AD2B-A5822A0F1056/0-16x9.jpg?width=1980" tvg-chno="235" group-title="Entertainment",TVN Premium HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/tvn_premium_hd/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/tvn_premium_hd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="c_i_slovak" tvg-name="C + I Slovak" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="219" group-title="Documentary",C + I Slovak
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/c_i_slovak/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/c_i_slovak/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="history_hd" tvg-name="History HD (Updated)" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9C02-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="148" group-title="Documentary",History HD (Updated)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/history_hd/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/history_hd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="bbcearth_hd" tvg-name="BBC Earth HD" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6868-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="141" group-title="Documentary",BBC Earth HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/bbcearth_hd/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/bbcearth_hd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="one_news_hd" tvg-name="One News HD" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7DDA-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="9" group-title="News",One News HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/one_news_hd/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/one_news_hd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="cnn_hd" tvg-name="CNN HD" tvg-logo="https://i.imgur.com/VEKlGRo.png" tvg-chno="251" group-title="News",CNN HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/cnn_hd/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/cnn_hd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_kapamilya_channel_hd" tvg-name="Kapamilya Channel HD" tvg-logo="https://converse.nathcreqtives.com/api/logo/GxQnIVbkps0V4XSgX2dnUix5?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSEMtU1ZXRyIsImlhdCI6MTc4MTA3NjEzMywiZXhwIjoxNzg1NTY4Mjg1LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODU1NjgyODUsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vY2lnbmFscGxheW1heC52ZXJjZWwuYXBwIiwiaHR0cHM6Ly9jaWduYWxwbGF5bWF4cGhjb3JuZXIudndnc2FsdmFkb3Iud29ya2Vycy5kZXYiXX0.kokHjy1cb63ABjhHnrrxQZ0AaoOG4PrOYtba_a_pUYE" tvg-chno="1" group-title="Entertainment",Kapamilya Channel HD
+https://cignalplaymaxcdn.qzz.io/conv_local_kapamilya_channel_hd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="onesports" tvg-name="One Sports" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AB750-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="90" group-title="Sports",One Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/onesports/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/onesports/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="pba_rush" tvg-name="PBA Rush" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7650-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="92" group-title="Sports",PBA Rush
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/pba_rush/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/pba_rush/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="onesports_plus_hd" tvg-name="One Sports Plus HD" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A696C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="91" group-title="Sports",One Sports Plus HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/onesports_plus_hd/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/onesports_plus_hd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="nba_tv" tvg-name="NBA TV Philippines" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/3327FF64-3E52-42DE-B516-4629BFABA8C7/0-16x9.jpg?width=1980" tvg-chno="263" group-title="Sports",NBA TV Philippines
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/nba_tv/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/nba_tv/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="uaap" tvg-name="UAAP" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A869A-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="100" group-title="Sports",UAAP
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/uaap/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/uaap/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="dazn_combat" tvg-name="DAZN COMBAT" tvg-logo="https://dazngroup.com/wp-content/uploads/2025/11/DAZN_MasterLogo_01_PANTONE-1024x1024.webp" tvg-chno="94" group-title="Sports",DAZN COMBAT
+https://cignalplaymaxcdn.qzz.io/dazn_combat/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="conv_local_premier_football" tvg-name="Premier Football" tvg-logo="https://converse.nathcreqtives.com/api/logo/t6Vx76bqIB5_s5LlFCmxHhif?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSEMtU1ZXRyIsImlhdCI6MTc4MTA3NjEzMywiZXhwIjoxNzg1NTY4Mjg1LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODU1NjgyODUsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vY2lnbmFscGxheW1heC52ZXJjZWwuYXBwIiwiaHR0cHM6Ly9jaWduYWxwbGF5bWF4cGhjb3JuZXIudndnc2FsdmFkb3Iud29ya2Vycy5kZXYiXX0.kokHjy1cb63ABjhHnrrxQZ0AaoOG4PrOYtba_a_pUYE" tvg-chno="98" group-title="Sports",Premier Football
+https://cignalplaymaxcdn.qzz.io/conv_local_premier_football/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="premier_sports_hd" tvg-name="Premier Sports HD" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6228-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="264" group-title="Sports",Premier Sports HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/premier_sports_hd/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/premier_sports_hd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="premier_sports_2_hd" tvg-name="Premier Sports 2 HD" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6228-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="265" group-title="Sports",Premier Sports 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/premier_sports_2_hd/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/premier_sports_2_hd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="spotv_hd" tvg-name="Spotv 1" tvg-logo="https://i.imgur.com/FT6yegX.png" tvg-chno="94" group-title="Sports",Spotv 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/spotv_hd/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/spotv_hd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="spotv_hd_2" tvg-name="SPOTV HD 2" tvg-logo="https://i.imgur.com/dH9ixUJ.png" tvg-chno="95" group-title="Sports",SPOTV HD 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/spotv_hd_2/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/spotv_hd_2/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="pop_tv" tvg-name="POP TV Rebroadcast" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Pop_UK_TV_Logo_%282015%29.svg/1280px-Pop_UK_TV_Logo_%282015%29.svg.png" tvg-chno="236" group-title="Kids",POP TV Rebroadcast
+https://cignalplaymaxcdn.qzz.io/pop_tv/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon_global" tvg-name="CHANNEL (N I C K) Multi Track" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" tvg-chno="72" group-title="Kids",CHANNEL (N I C K) Multi Track
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/nickelodeon_global/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/nickelodeon_global/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="jimjam_select" tvg-name="JimJam CEE" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/c/c4/JimJam_logo.png" tvg-chno="238" group-title="Kids",JimJam CEE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/jimjam_select/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/jimjam_select/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="sddad" tvg-name="Cartoonito Europe" tvg-logo="https://stmify.com/wp-content/uploads/2025/02/503-s.webp" tvg-chno="239" group-title="Kids",Cartoonito Europe
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/sddad/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/sddad/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="bein_sports_1" tvg-name="beIN SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/BeIN_Sports_logo_%282017%29.svg/1200px-BeIN_Sports_logo_%282017%29.svg.png" tvg-chno="266" group-title="Sports",beIN SPORTS 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/bein_sports_1/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/bein_sports_1/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="bein_sports_2" tvg-name="beIN SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/BeIN_Sports_logo_%282017%29.svg/1200px-BeIN_Sports_logo_%282017%29.svg.png" tvg-chno="93" group-title="Sports",beIN SPORTS 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/bein_sports_2/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/bein_sports_2/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="sky_sports" tvg-name="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Sky_Sports_logo_2020.svg/1200px-Sky_Sports_logo_2020.svg.png" tvg-chno="268" group-title="Sports",Sky Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/sky_sports/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/sky_sports/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="sky_sports_2" tvg-name="Sky Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Sky_Sports_logo_2020.svg/1200px-Sky_Sports_logo_2020.svg.png" tvg-chno="269" group-title="Sports",Sky Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/sky_sports_2/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/sky_sports_2/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="sky_sports_f1" tvg-name="Sky Sports F1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Sky_Sports_F1.svg/1200px-Sky_Sports_F1.svg.png" tvg-chno="270" group-title="Sports",Sky Sports F1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/sky_sports_f1/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/sky_sports_f1/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="sky_live_event_1" tvg-name="Sky Live Event 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Sky_Sports_logo_2020.svg/1200px-Sky_Sports_logo_2020.svg.png" tvg-chno="271" group-title="Sports",Sky Live Event 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/sky_live_event_1/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/sky_live_event_1/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="sky_live_event_2" tvg-name="Sky Live Event 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Sky_Sports_logo_2020.svg/1200px-Sky_Sports_logo_2020.svg.png" tvg-chno="272" group-title="Sports",Sky Live Event 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/sky_live_event_2/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/sky_live_event_2/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="sky_live_event_4" tvg-name="Sky Live Event 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Sky_Sports_logo_2020.svg/1200px-Sky_Sports_logo_2020.svg.png" tvg-chno="274" group-title="Sports",Sky Live Event 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/sky_live_event_4/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/sky_live_event_4/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="sky_live_event_5" tvg-name="Sky Live Event 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Sky_Sports_logo_2020.svg/1200px-Sky_Sports_logo_2020.svg.png" tvg-chno="275" group-title="Sports",Sky Live Event 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/sky_live_event_5/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/sky_live_event_5/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="samsung_zee_one" tvg-name="Samsung / Zee One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/ZEE_logo.svg/1200px-ZEE_logo.svg.png" tvg-chno="184" group-title="Entertainment",Samsung / Zee One
+https://cignalplaymaxcdn.qzz.io/samsung_zee_one/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="hbo_family_thailand" tvg-name="HBO Family Thailand" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/B741DD7A-A7F8-4F8A-A549-9EF411020F9D/0-16x9.jpg?width=1980" tvg-chno="250" group-title="Movies",HBO Family Thailand
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/hbo_family_thailand/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/hbo_family_thailand/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_channel_news_asia" tvg-name="Channel News Asia (Converge)" tvg-logo="https://converse.nathcreqtives.com/api/logo/HOuHXLfEXFTkUjKEk7phQLtD?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSEMtU1ZXRyIsImlhdCI6MTc4MTA3NjEzMywiZXhwIjoxNzg1NTY4Mjg1LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODU1NjgyODUsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vY2lnbmFscGxheW1heC52ZXJjZWwuYXBwIiwiaHR0cHM6Ly9jaWduYWxwbGF5bWF4cGhjb3JuZXIudndnc2FsdmFkb3Iud29ya2Vycy5kZXYiXX0.kokHjy1cb63ABjhHnrrxQZ0AaoOG4PrOYtba_a_pUYE" tvg-chno="152" group-title="News",Channel News Asia (Converge)
+https://cignalplaymaxcdn.qzz.io/conv_local_channel_news_asia/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_nhk_world_japan" tvg-name="NHK World Japan (Converge)" tvg-logo="https://converse.nathcreqtives.com/api/logo/TikJ80eqLMrAB8b-rhV-BQgE?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSEMtU1ZXRyIsImlhdCI6MTc4MTA3NjEzMywiZXhwIjoxNzg1NTY4Mjg1LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODU1NjgyODUsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vY2lnbmFscGxheW1heC52ZXJjZWwuYXBwIiwiaHR0cHM6Ly9jaWduYWxwbGF5bWF4cGhjb3JuZXIudndnc2FsdmFkb3Iud29ya2Vycy5kZXYiXX0.kokHjy1cb63ABjhHnrrxQZ0AaoOG4PrOYtba_a_pUYE" tvg-chno="156" group-title="Japanese",NHK World Japan (Converge)
+https://cignalplaymaxcdn.qzz.io/conv_local_nhk_world_japan/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_cgtn" tvg-name="CGTN" tvg-logo="https://cms.cignal.tv/Upload/Images/CGTN%20new%20channel%20logo.png" tvg-chno="157" group-title="News",CGTN
+https://cignalplaymaxcdn.qzz.io/conv_local_cgtn/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="conv_local_radio_maria" tvg-name="Radio Maria" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="254" group-title="Religious",Radio Maria
+https://cignalplaymaxcdn.qzz.io/conv_local_radio_maria/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_rock_tv_of_manila" tvg-name="Rock TV of Manila" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="255" group-title="Music",Rock TV of Manila
+https://cignalplaymaxcdn.qzz.io/conv_local_rock_tv_of_manila/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_saudi_tv" tvg-name="Saudi TV" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="256" group-title="International",Saudi TV
+https://cignalplaymaxcdn.qzz.io/conv_local_saudi_tv/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_spotlight_tv" tvg-name="Spotlight TV" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="257" group-title="Entertainment",Spotlight TV
+https://cignalplaymaxcdn.qzz.io/conv_local_spotlight_tv/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_tbn_asia" tvg-name="TBN Asia" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="258" group-title="Religious",TBN Asia
+https://cignalplaymaxcdn.qzz.io/conv_local_tbn_asia/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_tve_internacional" tvg-name="TVE Internacional" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="259" group-title="International",TVE Internacional
+https://cignalplaymaxcdn.qzz.io/conv_local_tve_internacional/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_usa_today" tvg-name="USA Today" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="260" group-title="News",USA Today
+https://cignalplaymaxcdn.qzz.io/conv_local_usa_today/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_a2z_converge" tvg-name="A2Z (Converge)" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A5580-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="2" group-title="Entertainment",A2Z (Converge)
+https://cignalplaymaxcdn.qzz.io/conv_local_a2z_converge/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="tvri_nasional" tvg-name="TVRI Nasional" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="326" group-title="Free TV",TVRI Nasional
+https://cignalplaymaxcdn.qzz.io/tvri_nasional/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="conv_local_viva_cinema" tvg-name="Viva Cinema (Converge)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Viva_Television_logo.png/220px-Viva_Television_logo.png" tvg-chno="49" group-title="Movies",Viva Cinema (Converge)
+https://cignalplaymaxcdn.qzz.io/conv_local_viva_cinema/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_pbo" tvg-name="PBO (Converge)" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="48" group-title="Movies",PBO (Converge)
+https://cignalplaymaxcdn.qzz.io/conv_local_pbo/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="conv_local_cartoon_network_asia_sd" tvg-name="Cartoon Network Asia (SD)" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A51FC-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="76" group-title="Kids",Cartoon Network Asia (SD)
+https://cignalplaymaxcdn.qzz.io/conv_local_cartoon_network_asia_sd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="tmc_converge_mpd" tvg-name="TMC (Converge MPD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/TMC_%28Philippine_TV_channel%29_logo.svg/240px-TMC_%28Philippine_TV_channel%29_logo.svg.png" tvg-chno="50" group-title="Movies",TMC (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/tmc_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="a2z_converge_mpd" tvg-name="A2Z (Converge MPD)" tvg-logo="https://i.imgur.com/pRwyOMP.png" tvg-chno="11" group-title="Free TV",A2Z (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/a2z_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="deped_converge_mpd" tvg-name="DepEd TV (Converge MPD)" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9590-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1920" tvg-chno="53" group-title="Free TV",DepEd TV (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/deped_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="alltv_converge_mpd" tvg-name="ALLTV (Converge MPD)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/ALLTV_logo.svg/240px-ALLTV_logo.svg.png" tvg-chno="9" group-title="Free TV",ALLTV (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/alltv_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="jeepney_converge_mpd" tvg-name="Jeepney TV (Converge MPD)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Jeepney_TV_Logo.svg/240px-Jeepney_TV_Logo.svg.png" tvg-chno="55" group-title="Free TV",Jeepney TV (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/jeepney_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="cartoonito_converge_mpd" tvg-name="Cartoonito (Converge MPD)" tvg-logo="https://1000logos.net/wp-content/uploads/2023/10/Cartoonito-Logo-2018.png" tvg-chno="57" group-title="Kids",Cartoonito (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/cartoonito_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="tv_maria_converge_mpd" tvg-name="TV Maria (Converge MPD)" tvg-logo="https://cms.cignal.tv/Upload/Images/TV%20MARIA.png" tvg-chno="56" group-title="Free TV",TV Maria (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/tv_maria_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="gma_converge_mpd" tvg-name="GMA (Converge MPD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/GMA_Network_2011_logo.svg/240px-GMA_Network_2011_logo.svg.png" tvg-chno="7" group-title="Free TV",GMA (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/gma_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="inctv_converge_mpd" tvg-name="INC TV (Converge MPD)" tvg-logo="https://cms.cignal.tv/Upload/Images/INCTV.png" tvg-chno="36" group-title="Free TV",INC TV (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/inctv_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="cgtn_converge_mpd" tvg-name="CGTN News (Converge MPD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/CGTN_logo.svg/240px-CGTN_logo.svg.png" tvg-chno="301" group-title="News",CGTN News (Converge MPD)
+https://cignalplaymaxcdn.qzz.io/cgtn_converge_mpd/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="comclark_ptv4" tvg-name="PTV 4 (Comclark)" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A5F08-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="4" group-title="Comclark",PTV 4 (Comclark)
+https://cignalplaymaxcdn.qzz.io/comclark_ptv4/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="comclark_ibc13" tvg-name="IBC 13 (Comclark)" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ABC0A-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" tvg-chno="13" group-title="Comclark",IBC 13 (Comclark)
+https://cignalplaymaxcdn.qzz.io/comclark_ibc13/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="comclark_filam_tv" tvg-name="FilAmTV Network (Comclark)" tvg-logo="https://i.imgur.com/Filam.png" tvg-chno="1103" group-title="Comclark",FilAmTV Network (Comclark)
+https://cignalplaymaxcdn.qzz.io/comclark_filam_tv/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="comclark_bilyonaryo_news" tvg-name="Bilyonaryo News Channel (Comclark)" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/166677E4-33C5-4C3B-A09D-7B3442D99E77/0-16x9.jpg?width=1980" tvg-chno="1104" group-title="Comclark",Bilyonaryo News Channel (Comclark)
+https://cignalplaymaxcdn.qzz.io/comclark_bilyonaryo_news/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="comclark_abante_tv" tvg-name="Abante TV (Comclark)" tvg-logo="https://cignalplaymax.vercel.app/cignalplay-max-full-logo.png" tvg-chno="1105" group-title="Comclark",Abante TV (Comclark)
+https://cignalplaymaxcdn.qzz.io/comclark_abante_tv/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="comclark_mindanow_network" tvg-name="Mindanow Network TV (Comclark)" tvg-logo="https://converse.nathcreqtives.com/api/logo/XM-CfLbWbs-_GUwf5HbPAVSC?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSEMtU1ZXRyIsImlhdCI6MTc4MTA3NjEzMywiZXhwIjoxNzg1NTY4Mjg1LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODU1NjgyODUsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vY2lnbmFscGxheW1heC52ZXJjZWwuYXBwIiwiaHR0cHM6Ly9jaWduYWxwbGF5bWF4cGhjb3JuZXIudndnc2FsdmFkb3Iud29ya2Vycy5kZXYiXX0.kokHjy1cb63ABjhHnrrxQZ0AaoOG4PrOYtba_a_pUYE" tvg-chno="1106" group-title="Comclark",Mindanow Network TV (Comclark)
+https://cignalplaymaxcdn.qzz.io/comclark_mindanow_network/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="trace_urban" tvg-name="Trace Urban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Trace_Urban_logo.svg/240px-Trace_Urban_logo.svg.png" tvg-chno="83" group-title="Music",Trace Urban
+https://cignalplaymaxcdn.qzz.io/trace_urban/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nba_finals" tvg-name="NBA TV" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/3327FF64-3E52-42DE-B516-4629BFABA8C7/0-16x9.jpg?width=1980" tvg-chno="263" group-title="Sports",NBA TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/nba_finals/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/nba_finals/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="global_fashion_channel" tvg-name="Global Fashion Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FashionTV_Logo.svg/240px-FashionTV_Logo.svg.png" tvg-chno="146" group-title="Lifestyle",Global Fashion Channel
+https://cignalplaymaxcdn.qzz.io/global_fashion_channel/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="movies_now" tvg-name="Movies Now" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="117" group-title="Movies",Movies Now
+https://cignalplaymaxcdn.qzz.io/movies_now/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="romedy_now" tvg-name="Romedy Now" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="118" group-title="Movies",Romedy Now
+https://cignalplaymaxcdn.qzz.io/romedy_now/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="outdoor_channel" tvg-name="Outdoor Channel" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="201" group-title="Lifestyle",Outdoor Channel
+https://cignalplaymaxcdn.qzz.io/outdoor_channel/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mor_entertainment" tvg-name="MOR Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/MYX_logo.svg/240px-MYX_logo.svg.png" tvg-chno="81" group-title="Music",MOR Entertainment
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/mor_entertainment/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/mor_entertainment/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="mtv_live_us" tvg-name="MTV Live US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/MTV_logo.svg/240px-MTV_logo.svg.png" tvg-chno="82" group-title="Music",MTV Live US
+https://cignalplaymaxcdn.qzz.io/mtv_live_us/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nat_geo_channel_in" tvg-name="National Geographic Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/National_Geographic_Channel.svg/240px-National_Geographic_Channel.svg.png" tvg-chno="240" group-title="Documentary",National Geographic Channel HD
+https://cignalplaymaxcdn.qzz.io/nat_geo_channel_in/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nat_geo_wild_in" tvg-name="Nat Geo Wild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Nat_Geo_Wild_logo_2016.svg/240px-Nat_Geo_Wild_logo_2016.svg.png" tvg-chno="241" group-title="Documentary",Nat Geo Wild HD
+https://cignalplaymaxcdn.qzz.io/nat_geo_wild_in/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="abc_east" tvg-name="ABC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/ABC_Entertainment_Group_logo_%282021%29.svg/240px-ABC_Entertainment_Group_logo_%282021%29.svg.png" tvg-chno="301" group-title="Entertainment",ABC East
+https://cignalplaymaxcdn.qzz.io/abc_east/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nbc_east" tvg-name="NBC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/240px-NBC_logo.svg.png" tvg-chno="305" group-title="Entertainment",NBC East
+https://cignalplaymaxcdn.qzz.io/nbc_east/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fox_east" tvg-name="Fox East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo.svg/240px-Fox_Broadcasting_Company_logo.svg.png" tvg-chno="307" group-title="Entertainment",Fox East
+https://cignalplaymaxcdn.qzz.io/fox_east/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="abc_west" tvg-name="ABC West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/ABC_Entertainment_Group_logo_%282021%29.svg/240px-ABC_Entertainment_Group_logo_%282021%29.svg.png" tvg-chno="302" group-title="Entertainment",ABC West
+https://cignalplaymaxcdn.qzz.io/abc_west/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cbs_west" tvg-name="CBS West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/240px-CBS_logo.svg.png" tvg-chno="304" group-title="Entertainment",CBS West
+https://cignalplaymaxcdn.qzz.io/cbs_west/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fox_west" tvg-name="FOX West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo.svg/240px-Fox_Broadcasting_Company_logo.svg.png" tvg-chno="308" group-title="Entertainment",FOX West
+https://cignalplaymaxcdn.qzz.io/fox_west/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nbc_west" tvg-name="NBC West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/240px-NBC_logo.svg.png" tvg-chno="306" group-title="Entertainment",NBC West
+https://cignalplaymaxcdn.qzz.io/nbc_west/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="global_tv_east" tvg-name="Global TV East (Canada)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Global_TV_logo_2020.svg/240px-Global_TV_logo_2020.svg.png" tvg-chno="309" group-title="Entertainment",Global TV East (Canada)
+https://cignalplaymaxcdn.qzz.io/global_tv_east/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="world_fashion_channel" tvg-name="World Fashion Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FashionTV_Logo.svg/240px-FashionTV_Logo.svg.png" tvg-chno="146" group-title="Lifestyle",World Fashion Channel
+https://cignalplaymaxcdn.qzz.io/world_fashion_channel/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fashion_one" tvg-name="Fashion One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FashionTV_Logo.svg/240px-FashionTV_Logo.svg.png" tvg-chno="146" group-title="Lifestyle",Fashion One
+https://cignalplaymaxcdn.qzz.io/fashion_one/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bein_sports_3" tvg-name="beIN Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/BeIN_Sports_logo.svg/240px-BeIN_Sports_logo.svg.png" tvg-chno="267" group-title="Sports",beIN Sports 3 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/bein_sports_3/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/bein_sports_3/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="cartoonito_vn" tvg-name="Cartoonito -1 (Vietnam)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cartoonito_logo_2021.svg/240px-Cartoonito_logo_2021.svg.png" tvg-chno="75" group-title="Kids",Cartoonito -1 (Vietnam)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/cartoonito_vn/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/cartoonito_vn/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="stv_1_sk" tvg-name="STV 1 (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="304" group-title="Entertainment (SK)",STV 1 (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/stv_1_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/stv_1_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="stv_2_sk" tvg-name="STV 2 (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="305" group-title="Entertainment (SK)",STV 2 (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/stv_2_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/stv_2_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="stv_3_sk" tvg-name="RTVS 24 (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="306" group-title="News (SK)",RTVS 24 (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/stv_3_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/stv_3_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="stv_sport_sk" tvg-name="RTVS Sport (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="307" group-title="Sports (SK)",RTVS Sport (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/stv_sport_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/stv_sport_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="markiza_sk" tvg-name="Markiza (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="308" group-title="Entertainment (SK)",Markiza (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/markiza_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/markiza_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="joj_sk" tvg-name="JOJ (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="309" group-title="Entertainment (SK)",JOJ (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/joj_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/joj_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="markiza_plus_jedna_sk" tvg-name="Markiza Plus Jedna (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="310" group-title="Entertainment (SK)",Markiza Plus Jedna (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/markiza_plus_jedna_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/markiza_plus_jedna_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="joj_plus_jedna_sk" tvg-name="JOJ Plus Jedna (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="311" group-title="Entertainment (SK)",JOJ Plus Jedna (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/joj_plus_jedna_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/joj_plus_jedna_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="markiza_klasik_sk" tvg-name="Markiza Klasik (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="312" group-title="Entertainment (SK)",Markiza Klasik (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/markiza_klasik_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/markiza_klasik_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="dajto_sk" tvg-name="Dajto (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="313" group-title="Entertainment (SK)",Dajto (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/dajto_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/dajto_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="doma_sk" tvg-name="Doma (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="314" group-title="Entertainment (SK)",Doma (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/doma_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/doma_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="markiza_krimi_sk" tvg-name="Markiza Krimi (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="315" group-title="Movies (SK)",Markiza Krimi (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/markiza_krimi_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/markiza_krimi_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="joj_plus_sk" tvg-name="JOJ Plus (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="316" group-title="Entertainment (SK)",JOJ Plus (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/joj_plus_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/joj_plus_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="joj_sport_sk" tvg-name="JOJ Sport (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="317" group-title="Sports (SK)",JOJ Sport (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/joj_sport_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/joj_sport_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="joj_sport_2_sk" tvg-name="JOJ Sport 2 (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="318" group-title="Sports (SK)",JOJ Sport 2 (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/joj_sport_2_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/joj_sport_2_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="wau_sk" tvg-name="WAU (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="319" group-title="Entertainment (SK)",WAU (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/wau_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/wau_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="joj_svet_sk" tvg-name="JOJ Svet (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="320" group-title="Entertainment (SK)",JOJ Svet (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/joj_svet_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/joj_svet_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="joj_cinema_sk" tvg-name="JOJ Cinema (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="321" group-title="Movies (SK)",JOJ Cinema (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/joj_cinema_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/joj_cinema_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="joj_cinema_plus_jedna_sk" tvg-name="JOJ Cinema Plus Jedna (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="322" group-title="Movies (SK)",JOJ Cinema Plus Jedna (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/joj_cinema_plus_jedna_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/joj_cinema_plus_jedna_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="ta_3_sk" tvg-name="TA3 (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="323" group-title="News (SK)",TA3 (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/ta_3_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/ta_3_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="joj_24_sk" tvg-name="JOJ 24 (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="324" group-title="News (SK)",JOJ 24 (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/joj_24_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/joj_24_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="up_network_sk" tvg-name="UP Network (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="325" group-title="Entertainment (SK)",UP Network (SK)
+https://cignalplaymaxcdn.qzz.io/up_network_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rik_sk" tvg-name="RiK (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="326" group-title="Kids (SK)",RiK (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/rik_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/rik_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="ric_tv_sk" tvg-name="RIC TV (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="327" group-title="Kids (SK)",RIC TV (SK)
+https://cignalplaymaxcdn.qzz.io/ric_tv_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="lala_tv_sk" tvg-name="Lala TV (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="328" group-title="Kids (SK)",Lala TV (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/lala_tv_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/lala_tv_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="turbo_tv_sk" tvg-name="Turbo TV (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="329" group-title="Entertainment (SK)",Turbo TV (SK)
+https://cignalplaymaxcdn.qzz.io/turbo_tv_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="coronavirus_info_tv_sk" tvg-name="Coronavirus Info TV (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="330" group-title="News (SK)",Coronavirus Info TV (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/coronavirus_info_tv_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/coronavirus_info_tv_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="infokanal_tango_sk" tvg-name="Infokanal Tango (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="331" group-title="Entertainment (SK)",Infokanal Tango (SK)
+https://cignalplaymaxcdn.qzz.io/infokanal_tango_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tanecnesutaze_sk" tvg-name="Tanecne Sutaze (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="332" group-title="Entertainment (SK)",Tanecne Sutaze (SK)
+https://cignalplaymaxcdn.qzz.io/tanecnesutaze_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="senzi_sk" tvg-name="Senzi (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="333" group-title="Entertainment (SK)",Senzi (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/senzi_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/senzi_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="folklorika_sk" tvg-name="Folklorika (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="334" group-title="Music (SK)",Folklorika (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/folklorika_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/folklorika_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="slager_premium_sk" tvg-name="Slager Premium (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="335" group-title="Music (SK)",Slager Premium (SK)
+https://cignalplaymaxcdn.qzz.io/slager_premium_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="slagr_tv_sk" tvg-name="Slagr TV (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="336" group-title="Music (SK)",Slagr TV (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/slagr_tv_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/slagr_tv_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="slagr_2_sk" tvg-name="Slagr 2 (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="337" group-title="Music (SK)",Slagr 2 (SK)
+https://cignalplaymaxcdn.qzz.io/slagr_2_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="skvele_sk" tvg-name="Skvele (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="338" group-title="Entertainment (SK)",Skvele (SK)
+https://cignalplaymaxcdn.qzz.io/skvele_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nrsr_tv_sk" tvg-name="NRSR TV (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="339" group-title="News (SK)",NRSR TV (SK)
+https://cignalplaymaxcdn.qzz.io/nrsr_tv_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="lux_sk" tvg-name="Lux (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="340" group-title="Religious (SK)",Lux (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/lux_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/lux_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="noe_sk" tvg-name="NOE (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="341" group-title="Religious (SK)",NOE (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/noe_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/noe_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="ct_1_sk" tvg-name="CT 1 (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="342" group-title="Entertainment (SK)",CT 1 (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/ct_1_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/ct_1_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="ct_2_sk" tvg-name="CT 2 (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="343" group-title="Entertainment (SK)",CT 2 (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/ct_2_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/ct_2_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="ct_24_sk" tvg-name="CT 24 (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="344" group-title="News (SK)",CT 24 (SK)
+https://cignalplaymaxcdn.qzz.io/ct_24_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ct_detem_ct_art_sk" tvg-name="CT Detem / CT Art (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="345" group-title="Kids (SK)",CT Detem / CT Art (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/ct_detem_ct_art_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/ct_detem_ct_art_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="seznam_tv_sk" tvg-name="Seznam TV (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="346" group-title="Entertainment (SK)",Seznam TV (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/seznam_tv_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/seznam_tv_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="barrandov_sk" tvg-name="TV Barrandov (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="347" group-title="Entertainment (SK)",TV Barrandov (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/barrandov_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/barrandov_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="kino_barrandov_sk" tvg-name="Kino Barrandov (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="348" group-title="Movies (SK)",Kino Barrandov (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/kino_barrandov_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/kino_barrandov_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="barrandov_plus_sk" tvg-name="Barrandov Plus (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="349" group-title="Entertainment (SK)",Barrandov Plus (SK)
+https://cignalplaymaxcdn.qzz.io/barrandov_plus_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="regionalni_televize_sk" tvg-name="Regionalni Televize (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="350" group-title="Regional (SK)",Regionalni Televize (SK)
+https://cignalplaymaxcdn.qzz.io/regionalni_televize_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv_pianko_sk" tvg-name="TV Pianko (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="351" group-title="Entertainment (SK)",TV Pianko (SK)
+https://cignalplaymaxcdn.qzz.io/tv_pianko_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="arena_sport_1_sk" tvg-name="Arena Sport 1 (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="352" group-title="Sports (SK)",Arena Sport 1 (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/arena_sport_1_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/arena_sport_1_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="arena_sport_2_sk" tvg-name="Arena Sport 2 (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="353" group-title="Sports (SK)",Arena Sport 2 (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/arena_sport_2_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/arena_sport_2_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="sport_1_sk" tvg-name="Sport 1 (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="354" group-title="Sports (SK)",Sport 1 (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/sport_1_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/sport_1_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="sport_2_sk" tvg-name="Sport 2 (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="355" group-title="Sports (SK)",Sport 2 (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/sport_2_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/sport_2_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="auto_motor_und_sport_sk" tvg-name="Auto Motor und Sport (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="356" group-title="Sports (SK)",Auto Motor und Sport (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/auto_motor_und_sport_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/auto_motor_und_sport_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="gttv_sk" tvg-name="GTTV (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="357" group-title="Sports (SK)",GTTV (SK)
+https://cignalplaymaxcdn.qzz.io/gttv_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="golf_channel_sk" tvg-name="Golf Channel (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="358" group-title="Sports (SK)",Golf Channel (SK)
+https://cignalplaymaxcdn.qzz.io/golf_channel_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="super_yacht_tv_sk" tvg-name="Super Yacht TV (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="359" group-title="Lifestyle (SK)",Super Yacht TV (SK)
+https://cignalplaymaxcdn.qzz.io/super_yacht_tv_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="national_geographic_channel_hd_sk" tvg-name="National Geographic Channel HD (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="240" group-title="Documentary (SK)",National Geographic Channel HD (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/national_geographic_channel_hd_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/national_geographic_channel_hd_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="national_geographic_wild_sk" tvg-name="National Geographic Wild (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="241" group-title="Documentary (SK)",National Geographic Wild (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/national_geographic_wild_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/national_geographic_wild_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="history_channel_sk" tvg-name="History Channel (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="362" group-title="Documentary (SK)",History Channel (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/history_channel_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/history_channel_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="history_2_sk" tvg-name="History 2 (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="363" group-title="Documentary (SK)",History 2 (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/history_2_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/history_2_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="crime_investigation_sk" tvg-name="Crime & Investigation (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="364" group-title="Documentary (SK)",Crime & Investigation (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/crime_investigation_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/crime_investigation_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="love_nature_sk" tvg-name="Love Nature (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="365" group-title="Documentary (SK)",Love Nature (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/love_nature_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/love_nature_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="doktor_tv_sk" tvg-name="Doktor TV (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="366" group-title="Lifestyle (SK)",Doktor TV (SK)
+https://cignalplaymaxcdn.qzz.io/doktor_tv_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="kitchen_sk" tvg-name="Kitchen (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="367" group-title="Lifestyle (SK)",Kitchen (SK)
+https://cignalplaymaxcdn.qzz.io/kitchen_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="park_tv_sk" tvg-name="Park TV (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="368" group-title="Lifestyle (SK)",Park TV (SK)
+https://cignalplaymaxcdn.qzz.io/park_tv_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="english_club_tv_sk" tvg-name="English Club TV (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="369" group-title="Education (SK)",English Club TV (SK)
+https://cignalplaymaxcdn.qzz.io/english_club_tv_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="lang_lab_sk" tvg-name="Lang Lab (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="370" group-title="Education (SK)",Lang Lab (SK)
+https://cignalplaymaxcdn.qzz.io/lang_lab_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="lingo_toons_sk" tvg-name="Lingo Toons (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="371" group-title="Education (SK)",Lingo Toons (SK)
+https://cignalplaymaxcdn.qzz.io/lingo_toons_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv_paprika_sk" tvg-name="TV Paprika (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="372" group-title="Lifestyle (SK)",TV Paprika (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/tv_paprika_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/tv_paprika_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="spektrum_sk" tvg-name="Spektrum (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="373" group-title="Documentary (SK)",Spektrum (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/spektrum_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/spektrum_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="spektrum_home_sk" tvg-name="Spektrum Home (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="374" group-title="Lifestyle (SK)",Spektrum Home (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/spektrum_home_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/spektrum_home_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="fishing_and_hunting_sk" tvg-name="Fishing & Hunting (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="375" group-title="Sports (SK)",Fishing & Hunting (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/fishing_and_hunting_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/fishing_and_hunting_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="amc_sk" tvg-name="AMC (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="376" group-title="Movies (SK)",AMC (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/amc_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/amc_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="film_plus_sk" tvg-name="Film Plus (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="377" group-title="Movies (SK)",Film Plus (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/film_plus_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/film_plus_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="axn_sk" tvg-name="AXN (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="378" group-title="Entertainment (SK)",AXN (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/axn_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/axn_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="axn_white_sk" tvg-name="AXN White (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="379" group-title="Entertainment (SK)",AXN White (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/axn_white_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/axn_white_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="axn_black_sk" tvg-name="AXN Black (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="380" group-title="Movies (SK)",AXN Black (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/axn_black_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/axn_black_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="filmbox_sk" tvg-name="FilmBox (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="381" group-title="Movies (SK)",FilmBox (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/filmbox_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/filmbox_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="filmbox_extra_hd_sk" tvg-name="FilmBox Extra HD (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="382" group-title="Movies (SK)",FilmBox Extra HD (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/filmbox_extra_hd_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/filmbox_extra_hd_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="filmbox_premium_sk" tvg-name="FilmBox Premium (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="383" group-title="Movies (SK)",FilmBox Premium (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/filmbox_premium_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/filmbox_premium_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="filmbox_family_sk" tvg-name="FilmBox Family (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="384" group-title="Movies (SK)",FilmBox Family (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/filmbox_family_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/filmbox_family_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="filmbox_plus_sk" tvg-name="FilmBox Plus (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="385" group-title="Movies (SK)",FilmBox Plus (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/filmbox_plus_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/filmbox_plus_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="fightbox_hd_sk" tvg-name="FightBox HD (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="386" group-title="Sports (SK)",FightBox HD (SK)
+https://cignalplaymaxcdn.qzz.io/fightbox_hd_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="filmbox_arthouse_sk" tvg-name="FilmBox Arthouse (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="387" group-title="Movies (SK)",FilmBox Arthouse (SK)
+https://cignalplaymaxcdn.qzz.io/filmbox_arthouse_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fashionbox_hd_sk" tvg-name="FashionBox HD (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="388" group-title="Lifestyle (SK)",FashionBox HD (SK)
+https://cignalplaymaxcdn.qzz.io/fashionbox_hd_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fast_and_funbox_hd_sk" tvg-name="Fast & FunBox HD (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="389" group-title="Entertainment (SK)",Fast & FunBox HD (SK)
+https://cignalplaymaxcdn.qzz.io/fast_and_funbox_hd_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="docubox_hd_sk" tvg-name="DocuBox HD (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="390" group-title="Documentary (SK)",DocuBox HD (SK)
+https://cignalplaymaxcdn.qzz.io/docubox_hd_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="360_tunebox_sk" tvg-name="360 TuneBox (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="391" group-title="Music (SK)",360 TuneBox (SK)
+https://cignalplaymaxcdn.qzz.io/360_tunebox_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="disney_channel_sk" tvg-name="Disney Channel (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="392" group-title="Kids (SK)",Disney Channel (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/disney_channel_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/disney_channel_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="disney_junior_sk" tvg-name="Disney Junior (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="393" group-title="Kids (SK)",Disney Junior (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/disney_junior_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/disney_junior_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="nickelodeon_sk" tvg-name="Nickelodeon (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="394" group-title="Kids (SK)",Nickelodeon (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/nickelodeon_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/nickelodeon_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="nicktoons_sk" tvg-name="NickToons (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="395" group-title="Kids (SK)",NickToons (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/nicktoons_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/nicktoons_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="nick_jr_sk" tvg-name="Nick Jr. (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="396" group-title="Kids (SK)",Nick Jr. (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/nick_jr_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/nick_jr_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="jim_jam_sk" tvg-name="JimJam (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="397" group-title="Kids (SK)",JimJam (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/jim_jam_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/jim_jam_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="minimax_sk" tvg-name="Minimax (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="398" group-title="Kids (SK)",Minimax (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/minimax_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/minimax_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="duck_tv_sk" tvg-name="Duck TV (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="399" group-title="Kids (SK)",Duck TV (SK)
+https://cignalplaymaxcdn.qzz.io/duck_tv_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="duck_tv_plus_sk" tvg-name="Duck TV Plus (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="400" group-title="Kids (SK)",Duck TV Plus (SK)
+https://cignalplaymaxcdn.qzz.io/duck_tv_plus_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mestska_tv_kosice_sk" tvg-name="Mestska TV Kosice (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="401" group-title="Regional (SK)",Mestska TV Kosice (SK)
+https://cignalplaymaxcdn.qzz.io/mestska_tv_kosice_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rvtv_sk" tvg-name="RVTV (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="402" group-title="Regional (SK)",RVTV (SK)
+https://cignalplaymaxcdn.qzz.io/rvtv_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="miestna_tv_trebisov_sk" tvg-name="Miestna TV Trebisov (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="403" group-title="Regional (SK)",Miestna TV Trebisov (SK)
+https://cignalplaymaxcdn.qzz.io/miestna_tv_trebisov_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="hn_tv_sk" tvg-name="HN TV (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="404" group-title="Regional (SK)",HN TV (SK)
+https://cignalplaymaxcdn.qzz.io/hn_tv_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="btv_sk" tvg-name="BTV (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="405" group-title="Regional (SK)",BTV (SK)
+https://cignalplaymaxcdn.qzz.io/btv_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="moldava_tv_sk" tvg-name="Moldava TV (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="406" group-title="Regional (SK)",Moldava TV (SK)
+https://cignalplaymaxcdn.qzz.io/moldava_tv_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv9_sk" tvg-name="TV9 (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="407" group-title="Regional (SK)",TV9 (SK)
+https://cignalplaymaxcdn.qzz.io/tv9_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv7_sk" tvg-name="TV7 (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="408" group-title="Regional (SK)",TV7 (SK)
+https://cignalplaymaxcdn.qzz.io/tv7_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="csr_tv_sk" tvg-name="CSR TV (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="409" group-title="Regional (SK)",CSR TV (SK)
+https://cignalplaymaxcdn.qzz.io/csr_tv_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv_sen_sk" tvg-name="TV Sen (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="410" group-title="Regional (SK)",TV Sen (SK)
+https://cignalplaymaxcdn.qzz.io/tv_sen_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv_ruzinov_sk" tvg-name="TV Ruzinov (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="411" group-title="Regional (SK)",TV Ruzinov (SK)
+https://cignalplaymaxcdn.qzz.io/tv_ruzinov_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv_severka_sk" tvg-name="TV Severka (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="412" group-title="Regional (SK)",TV Severka (SK)
+https://cignalplaymaxcdn.qzz.io/tv_severka_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv_romana_sk" tvg-name="TV Romana (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="413" group-title="Regional (SK)",TV Romana (SK)
+https://cignalplaymaxcdn.qzz.io/tv_romana_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv_bratislava_sk" tvg-name="TV Bratislava (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="414" group-title="Regional (SK)",TV Bratislava (SK)
+https://cignalplaymaxcdn.qzz.io/tv_bratislava_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="life_tv_sk" tvg-name="Life TV (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="415" group-title="Regional (SK)",Life TV (SK)
+https://cignalplaymaxcdn.qzz.io/life_tv_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv_raj_sk" tvg-name="TV Raj (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="416" group-title="Regional (SK)",TV Raj (SK)
+https://cignalplaymaxcdn.qzz.io/tv_raj_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv_vega_sk" tvg-name="TV Vega (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="417" group-title="Regional (SK)",TV Vega (SK)
+https://cignalplaymaxcdn.qzz.io/tv_vega_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv_panorama_sk" tvg-name="TV Panorama (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="418" group-title="Regional (SK)",TV Panorama (SK)
+https://cignalplaymaxcdn.qzz.io/tv_panorama_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="atv_ziar_sk" tvg-name="ATV Ziar (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="419" group-title="Regional (SK)",ATV Ziar (SK)
+https://cignalplaymaxcdn.qzz.io/atv_ziar_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv_zemplin_sk" tvg-name="TV Zemplin (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="420" group-title="Regional (SK)",TV Zemplin (SK)
+https://cignalplaymaxcdn.qzz.io/tv_zemplin_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv_poprad_sk" tvg-name="TV Poprad (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="421" group-title="Regional (SK)",TV Poprad (SK)
+https://cignalplaymaxcdn.qzz.io/tv_poprad_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv_reduta_sk" tvg-name="TV Reduta (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="422" group-title="Regional (SK)",TV Reduta (SK)
+https://cignalplaymaxcdn.qzz.io/tv_reduta_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mestska_tv_partizanske_sk" tvg-name="Mestska TV Partizanske (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="423" group-title="Regional (SK)",Mestska TV Partizanske (SK)
+https://cignalplaymaxcdn.qzz.io/mestska_tv_partizanske_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv_povazie_sk" tvg-name="TV Povazie (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="424" group-title="Regional (SK)",TV Povazie (SK)
+https://cignalplaymaxcdn.qzz.io/tv_povazie_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mestska_televizia_trnava_sk" tvg-name="Mestska Televizia Trnava (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="425" group-title="Regional (SK)",Mestska Televizia Trnava (SK)
+https://cignalplaymaxcdn.qzz.io/mestska_televizia_trnava_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cetv_sk" tvg-name="CETV (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="426" group-title="Regional (SK)",CETV (SK)
+https://cignalplaymaxcdn.qzz.io/cetv_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mistral_sk" tvg-name="Mistral TV (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="427" group-title="Regional (SK)",Mistral TV (SK)
+https://cignalplaymaxcdn.qzz.io/mistral_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv_nitricka_sk" tvg-name="TV Nitricka (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="428" group-title="Regional (SK)",TV Nitricka (SK)
+https://cignalplaymaxcdn.qzz.io/tv_nitricka_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv_nove_zamky_sk" tvg-name="TV Nove Zamky (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="429" group-title="Regional (SK)",TV Nove Zamky (SK)
+https://cignalplaymaxcdn.qzz.io/tv_nove_zamky_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="zstv_sk" tvg-name="ZSTV (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="430" group-title="Regional (SK)",ZSTV (SK)
+https://cignalplaymaxcdn.qzz.io/zstv_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv_vita_sk" tvg-name="TV Vita (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="431" group-title="Regional (SK)",TV Vita (SK)
+https://cignalplaymaxcdn.qzz.io/tv_vita_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv_8_sk" tvg-name="TV 8 (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="432" group-title="Regional (SK)",TV 8 (SK)
+https://cignalplaymaxcdn.qzz.io/tv_8_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="regio_tv_sk" tvg-name="Regio TV (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="433" group-title="Regional (SK)",Regio TV (SK)
+https://cignalplaymaxcdn.qzz.io/regio_tv_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="locall_sk" tvg-name="Locall (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="434" group-title="Regional (SK)",Locall (SK)
+https://cignalplaymaxcdn.qzz.io/locall_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="polar_sk" tvg-name="Polar TV (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="435" group-title="Regional (SK)",Polar TV (SK)
+https://cignalplaymaxcdn.qzz.io/polar_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvp_world_sk" tvg-name="TVP World (SK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/TVP_World_logo.svg/240px-TVP_World_logo.svg.png" tvg-chno="912" group-title="News (SK)",TVP World (SK)
+https://cignalplaymaxcdn.qzz.io/tvp_world_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvp_info_sk" tvg-name="TVP Info (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="437" group-title="News (SK)",TVP Info (SK)
+https://cignalplaymaxcdn.qzz.io/tvp_info_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvp_polonia_sk" tvg-name="TVP Polonia (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="438" group-title="News (SK)",TVP Polonia (SK)
+https://cignalplaymaxcdn.qzz.io/tvp_polonia_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="svoboda_sk" tvg-name="Svoboda (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="439" group-title="News (SK)",Svoboda (SK)
+https://cignalplaymaxcdn.qzz.io/svoboda_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ua_tv_sk" tvg-name="UA TV (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="440" group-title="News (SK)",UA TV (SK)
+https://cignalplaymaxcdn.qzz.io/ua_tv_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="espresso_tv_sk" tvg-name="Espresso TV (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="441" group-title="News (SK)",Espresso TV (SK)
+https://cignalplaymaxcdn.qzz.io/espresso_tv_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="current_time_sk" tvg-name="Current Time (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="442" group-title="News (SK)",Current Time (SK)
+https://cignalplaymaxcdn.qzz.io/current_time_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="armenia_1_tv_sk" tvg-name="Armenia 1 TV (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="443" group-title="News (SK)",Armenia 1 TV (SK)
+https://cignalplaymaxcdn.qzz.io/armenia_1_tv_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="euronews_sk" tvg-name="EuroNews (SK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Euronews_logo.svg/240px-Euronews_logo.svg.png" tvg-chno="902" group-title="News (SK)",EuroNews (SK)
+https://cignalplaymaxcdn.qzz.io/euronews_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nhk_world_hd_sk" tvg-name="NHK World HD (SK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/NHK_logo.svg/240px-NHK_logo.svg.png" tvg-chno="156" group-title="News (SK)",NHK World HD (SK)
+https://cignalplaymaxcdn.qzz.io/nhk_world_hd_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="arirang_tv_sk" tvg-name="Arirang TV (SK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Arirang_TV_logo.svg/240px-Arirang_TV_logo.svg.png" tvg-chno="186" group-title="News (SK)",Arirang TV (SK)
+https://cignalplaymaxcdn.qzz.io/arirang_tv_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="trt_world_sk" tvg-name="TRT World (SK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/TRT_World_logo.svg/240px-TRT_World_logo.svg.png" tvg-chno="901" group-title="News (SK)",TRT World (SK)
+https://cignalplaymaxcdn.qzz.io/trt_world_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="al_jazeera_english_sk" tvg-name="Al Jazeera English (SK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Al_Jazeera_English_logo_2016.svg/240px-Al_Jazeera_English_logo_2016.svg.png" tvg-chno="900" group-title="News (SK)",Al Jazeera English (SK)
+https://cignalplaymaxcdn.qzz.io/al_jazeera_english_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="al_jazeera_sk" tvg-name="Al Jazeera (SK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Al_Jazeera_English_logo_2016.svg/240px-Al_Jazeera_English_logo_2016.svg.png" tvg-chno="449" group-title="News (SK)",Al Jazeera (SK)
+https://cignalplaymaxcdn.qzz.io/al_jazeera_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sky_news_sk" tvg-name="Sky News (SK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sky_News_International_logo_2020.svg/240px-Sky_News_International_logo_2020.svg.png" tvg-chno="903" group-title="News (SK)",Sky News (SK)
+https://cignalplaymaxcdn.qzz.io/sky_news_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="france_24_english_sk" tvg-name="France 24 English (SK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/France_24_logo.svg/240px-France_24_logo.svg.png" tvg-chno="155" group-title="News (SK)",France 24 English (SK)
+https://cignalplaymaxcdn.qzz.io/france_24_english_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="france24_sk" tvg-name="France 24 (SK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/France_24_logo.svg/240px-France_24_logo.svg.png" tvg-chno="452" group-title="News (SK)",France 24 (SK)
+https://cignalplaymaxcdn.qzz.io/france24_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rai_uno_sk" tvg-name="RAI Uno (SK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Rai_1_-_Logo_2016.svg/240px-Rai_1_-_Logo_2016.svg.png" tvg-chno="910" group-title="Entertainment (SK)",RAI Uno (SK)
+https://cignalplaymaxcdn.qzz.io/rai_uno_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rai_tre_sk" tvg-name="RAI Tre (SK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rai_3_-_Logo_2017.svg/240px-Rai_3_-_Logo_2017.svg.png" tvg-chno="911" group-title="Entertainment (SK)",RAI Tre (SK)
+https://cignalplaymaxcdn.qzz.io/rai_tre_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cgtn_sk" tvg-name="CGTN (SK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/CGTN_logo.svg/240px-CGTN_logo.svg.png" tvg-chno="157" group-title="News (SK)",CGTN (SK)
+https://cignalplaymaxcdn.qzz.io/cgtn_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cgtn_documentary_sk" tvg-name="CGTN Documentary (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="456" group-title="Documentary (SK)",CGTN Documentary (SK)
+https://cignalplaymaxcdn.qzz.io/cgtn_documentary_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ocko_sk" tvg-name="Ocko (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="457" group-title="Music (SK)",Ocko (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/ocko_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/ocko_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="ocko_black_hd_sk" tvg-name="Ocko Black HD (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="458" group-title="Music (SK)",Ocko Black HD (SK)
+https://cignalplaymaxcdn.qzz.io/ocko_black_hd_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ocko_expres_sk" tvg-name="Ocko Expres (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="459" group-title="Music (SK)",Ocko Expres (SK)
+https://cignalplaymaxcdn.qzz.io/ocko_expres_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ocko_star_sk" tvg-name="Ocko Star (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="460" group-title="Music (SK)",Ocko Star (SK)
+https://cignalplaymaxcdn.qzz.io/ocko_star_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="retro_music_television_sk" tvg-name="Retro Music Television (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="461" group-title="Music (SK)",Retro Music Television (SK)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/retro_music_television_sk/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/retro_music_television_sk/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="pohoda_rebel_sk" tvg-name="Pohoda Rebel (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="462" group-title="Music (SK)",Pohoda Rebel (SK)
+https://cignalplaymaxcdn.qzz.io/pohoda_rebel_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="pohoda_relax_sk" tvg-name="Pohoda Relax (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="463" group-title="Music (SK)",Pohoda Relax (SK)
+https://cignalplaymaxcdn.qzz.io/pohoda_relax_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="stingray_iconcerts_sk" tvg-name="Stingray iConcerts (SK)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="464" group-title="Music (SK)",Stingray iConcerts (SK)
+https://cignalplaymaxcdn.qzz.io/stingray_iconcerts_sk/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="disney_channel_es" tvg-name="Disney Channel (ES)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Disney_Channel_logo.svg/240px-Disney_Channel_logo.svg.png" tvg-chno="71" group-title="Kids",Disney Channel (ES)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cignalplaymaxcdn.qzz.io/disney_channel_es/sanjuantv/keys
+https://cignalplaymaxcdn.qzz.io/disney_channel_es/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="bini_tv" tvg-name="BINI TV TFC" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="466" group-title="Entertainment",BINI TV TFC
+https://cignalplaymaxcdn.qzz.io/bini_tv/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="hoa_ph" tvg-name="Heart Of ASIA" tvg-logo="https://images.gmanews.tv/webpics/2020/10/Heart_of_Asia_2020_10_31_20_14_46.jpg" tvg-chno="52" group-title="Entertainment",Heart Of ASIA
+https://cignalplaymaxcdn.qzz.io/hoa_ph/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="requested_cctv47" tvg-name="CCTN 47" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="468" group-title="Entertainment",CCTN 47
+https://cignalplaymaxcdn.qzz.io/requested_cctv47/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="jj_osn5t" tvg-name="JimJam OSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1280px-OSN_2020_logo.svg.png" tvg-chno="469" group-title="Kids",JimJam OSN
+https://cignalplaymaxcdn.qzz.io/jj_osn5t/sanjuantv/manifest.mpd
+
+#EXTINF:-1 tvg-id="nick_fr" tvg-name="Nickelodeon FRANCE" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="1107" group-title="Kids",Nickelodeon FRANCE
+https://cignalplaymaxcdn.qzz.io/nick_fr/sanjuantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="experimental_fix_foxi_asia" tvg-name="Fix & Foxi Asia (Rare Feed)" tvg-logo="https://i.imgur.com/Sdj4Miw.png" tvg-chno="471" group-title="Experimental",Fix & Foxi Asia (Rare Feed)
+https://cignalplaymaxcdn.qzz.io/experimental_fix_foxi_asia/sanjuantv/playlist.m3u8
+
