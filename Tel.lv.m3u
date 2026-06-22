@@ -1,40 +1,11 @@
-#EXTM3U
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="",EURO NEWS
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=71b92531fbef5a3c926a2b1bc564d413:8600e6f3ea47ede4636f4932e5e6a5be
-https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/126_HTTP/__op/dash-default/__f/manifest.mpd
-
-#EXTINF:-1 tvg-logo="",EURO NEWS SV2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=606ac4cae6585d29a475f3be476c2c18:2c55e0a98b4d4116314ffd049131648b
-https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/126_HTTP/__op/dash-default/__f/manifest.mpd
-#EXTINF:-1 tvg-logo="" ,SAT1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"820aa0cc8051539697786407294bef94":"8a8bd4fd0fd03d79e78f739bf1072a57","5bfe7c7b8d2850ab85b60a13c57c7bfe":"30d36ccae0d36874fca889ed669cfe7c","2383e8bb0fbd5e64a7b774c483a89eb5":"9ce50e03c8b253720bf65678914caad1"}
-https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/127_HTTP/__op/dash-default/__f/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" ,STAR CINEMA
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"801ce609fe4254d487bd50e42b63cd63":"1ba77108ca780ea4e4ae5bfdcfd6782a","350dedcff11c5e4c8571d46ce7ba6e24":"d320688cadf143f8b3d2698fad26d8d1","6203fe63d2f05d3f847fada8131cfa5d":"708dfaeb2d893a77bdbb2fddc802032e"}
-https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/128_HTTP/__op/dash-default/__f/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" ,BLOOMBERG
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"294569b985545edf93a8b1f8eb9f2b4f":"f4457b1431e20d9dbf1579dd272e3077","c797aad6af705314930e998e5362112f":"165b6d85fb7053900c1644fb43e1acb5"}
-https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/129_HTTP/__op/dash-default/__f/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" ,AL JAZEERA
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4083351cfe75575d9d5188c15574b87d":"fedcdef4485569e1dbb64e43661f8046","5e31ca5ef9c65ecd833d409e17dc14ae":"3831e73bacf990645a5dc1d9f7485e51","7b4859bfe803581698ffffcf4dae7c08":"15813d11b7ab1e0a14d300e8a889942f"}
-https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/130_HTTP/__op/dash-default/__f/manifest.mpd
+‎#EXTM3U
+‎
+‎#EXTINF:-1,EURO NEWS
+‎#KODIPROP:inputstream=inputstream.adaptive
+‎#KODIPROP:inputstream.adaptive.manifest_type=mpd
+‎#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+‎#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"71b92531fbef5a3c926a2b1bc564d413","k":"8600e6f3ea47ede4636f4932e5e6a5be"},{"kty":"oct","kid":"606ac4cae6585d29a475f3be476c2c18","k":"2c55e0a98b4d4116314ffd049131648b"}]}
+‎https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/126_HTTP/__op/dash-default/__f/manifest.mpd
 
 #EXTINF:-1 tvg-logo="" ,VIDUSDAUGAVAS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
