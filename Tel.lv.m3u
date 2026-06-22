@@ -8,7 +8,7 @@
 #EXTINF:-1 tvg-logo="" ,EURO NEWS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"71b92531fbef5a3c926a2b1bc564d413":"8600e6f3ea47ede4636f4932e5e6a5be","606ac4cae6585d29a475f3be476c2c18":"2c55e0a98b4d4116314ffd049131648b"}
+#KODIPROP:inputstream.adaptive.license_key=71b92531fbef5a3c926a2b1bc564d413:8600e6f3ea47ede4636f4932e5e6a5be
 https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/126_HTTP/__op/dash-default/__f/manifest.mpd
 
 #EXTINF:-1 tvg-logo="" ,SAT1
