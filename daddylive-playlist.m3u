@@ -1,0 +1,146 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="espn.us" group-title="Sports" tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/ESPN-Logo.png",ESPN
+https://dlhd.pk/embed/stream-1.php
+
+#EXTINF:-1 tvg-id="espn2.us" group-title="Sports" tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/ESPN2-Logo.png",ESPN 2
+https://dlhd.pk/embed/stream-2.php
+
+#EXTINF:-1 tvg-id="fs1.us" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Fox_Sports_1_logo.svg",Fox Sports 1
+https://dlhd.pk/embed/stream-3.php
+
+#EXTINF:-1 tvg-id="fs2.us" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Fox_Sports_2_logo.svg",Fox Sports 2
+https://dlhd.pk/embed/stream-4.php
+
+#EXTINF:-1 tvg-id="nbcsports.us" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/NBC_Sports_logo.svg",NBC Sports
+https://dlhd.pk/embed/stream-5.php
+
+#EXTINF:-1 tvg-id="tnt.us" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg",TNT Sports
+https://dlhd.pk/embed/stream-6.php
+
+#EXTINF:-1 tvg-id="tbs.us" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TBS_logo_2016.svg",TBS
+https://dlhd.pk/embed/stream-7.php
+
+#EXTINF:-1 tvg-id="skypl.uk" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/Sky_Sports_Premier_League.png",Sky Sports Premier League
+https://dlhd.pk/embed/stream-8.php
+
+#EXTINF:-1 tvg-id="skyfoot.uk" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Sky_Sports_Football.png",Sky Sports Football
+https://dlhd.pk/embed/stream-9.php
+
+#EXTINF:-1 tvg-id="skyme.uk" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sky_Sports_Main_Event.png",Sky Sports Main Event
+https://dlhd.pk/embed/stream-10.php
+
+#EXTINF:-1 tvg-id="bts1.uk" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/BT_Sport_logo_2019.svg",BT Sport 1
+https://dlhd.pk/embed/stream-11.php
+
+#EXTINF:-1 tvg-id="bts2.uk" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/BT_Sport_logo_2019.svg",BT Sport 2
+https://dlhd.pk/embed/stream-12.php
+
+#EXTINF:-1 tvg-id="eurosport1" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Eurosport_1_logo.svg",Eurosport 1
+https://dlhd.pk/embed/stream-13.php
+
+#EXTINF:-1 tvg-id="eurosport2" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Eurosport_2.svg",Eurosport 2
+https://dlhd.pk/embed/stream-14.php
+
+#EXTINF:-1 tvg-id="bein1" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/BeIN_Sports_logo.svg",beIN Sports 1
+https://dlhd.pk/embed/stream-15.php
+
+#EXTINF:-1 tvg-id="bein2" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/BeIN_Sports_logo.svg",beIN Sports 2
+https://dlhd.pk/embed/stream-16.php
+
+#EXTINF:-1 tvg-id="nba.tv" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/NBA_TV.svg",NBA TV
+https://dlhd.pk/embed/stream-17.php
+
+#EXTINF:-1 tvg-id="nfl.network" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/NFL_Network_logo.svg",NFL Network
+https://dlhd.pk/embed/stream-18.php
+
+#EXTINF:-1 tvg-id="nhl.network" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/NHL_Network.svg",NHL Network
+https://dlhd.pk/embed/stream-19.php
+
+#EXTINF:-1 tvg-id="mlb.network" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/MLB_Network_Logo.svg",MLB Network
+https://dlhd.pk/embed/stream-20.php
+
+#EXTINF:-1 tvg-id="golf.channel" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Golf_Channel_logo.svg",Golf Channel
+https://dlhd.pk/embed/stream-21.php
+
+#EXTINF:-1 tvg-id="tennis.channel" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Tennis_Channel_logo.svg",Tennis Channel
+https://dlhd.pk/embed/stream-22.php
+
+#EXTINF:-1 tvg-id="cnn.us" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg",CNN
+https://dlhd.pk/embed/stream-23.php
+
+#EXTINF:-1 tvg-id="foxnews.us" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_News_Channel_logo.svg",Fox News
+https://dlhd.pk/embed/stream-24.php
+
+#EXTINF:-1 tvg-id="msnbc.us" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/MSNBC_logo.svg",MSNBC
+https://dlhd.pk/embed/stream-25.php
+
+#EXTINF:-1 tvg-id="bbcnews.uk" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/BBC_News_2019.svg",BBC News
+https://dlhd.pk/embed/stream-26.php
+
+#EXTINF:-1 tvg-id="skynews.uk" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/Sky-news-logo.svg",Sky News
+https://dlhd.pk/embed/stream-27.php
+
+#EXTINF:-1 tvg-id="aljazeera.en" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Aljazeera_eng.png",Al Jazeera English
+https://dlhd.pk/embed/stream-28.php
+
+#EXTINF:-1 tvg-id="hbo.us" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg",HBO
+https://dlhd.pk/embed/stream-29.php
+
+#EXTINF:-1 tvg-id="hbomax.us" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_Max_Logo.svg",HBO Max
+https://dlhd.pk/embed/stream-30.php
+
+#EXTINF:-1 tvg-id="showtime.us" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Showtime.svg",Showtime
+https://dlhd.pk/embed/stream-31.php
+
+#EXTINF:-1 tvg-id="fx.us" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg",FX
+https://dlhd.pk/embed/stream-32.php
+
+#EXTINF:-1 tvg-id="amc.us" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg",AMC
+https://dlhd.pk/embed/stream-33.php
+
+#EXTINF:-1 tvg-id="usa.us" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg",USA Network
+https://dlhd.pk/embed/stream-34.php
+
+#EXTINF:-1 tvg-id="comedycentral.us" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg",Comedy Central
+https://dlhd.pk/embed/stream-35.php
+
+#EXTINF:-1 tvg-id="tcm.us" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Turner_Classic_Movies_%28TCM%2C_current%29.svg",TCM
+https://dlhd.pk/embed/stream-36.php
+
+#EXTINF:-1 tvg-id="ifc.us" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/IFC_logo.svg",IFC
+https://dlhd.pk/embed/stream-37.php
+
+#EXTINF:-1 tvg-id="lifetime.us" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Lifetime_logo_2020.svg",Lifetime
+https://dlhd.pk/embed/stream-38.php
+
+#EXTINF:-1 tvg-id="disney.us" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg",Disney Channel
+https://dlhd.pk/embed/stream-39.php
+
+#EXTINF:-1 tvg-id="nick.us" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Nickelodeon_2009_logo.svg",Nickelodeon
+https://dlhd.pk/embed/stream-40.php
+
+#EXTINF:-1 tvg-id="cartoonnetwork.us" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg",Cartoon Network
+https://dlhd.pk/embed/stream-41.php
+
+#EXTINF:-1 tvg-id="discovery.us" group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Discovery_Channel_-_Logo_2019.svg",Discovery Channel
+https://dlhd.pk/embed/stream-42.php
+
+#EXTINF:-1 tvg-id="history.us" group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/History_%282021%29.svg",History Channel
+https://dlhd.pk/embed/stream-43.php
+
+#EXTINF:-1 tvg-id="natgeo.us" group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg",National Geographic
+https://dlhd.pk/embed/stream-44.php
+
+#EXTINF:-1 tvg-id="animalplanet.us" group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg",Animal Planet
+https://dlhd.pk/embed/stream-45.php
+
+#EXTINF:-1 tvg-id="mtv.us" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/MTV-2021.svg",MTV
+https://dlhd.pk/embed/stream-46.php
+
+#EXTINF:-1 tvg-id="vh1.us" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/VH1_logonew.svg",VH1
+https://dlhd.pk/embed/stream-47.php
+
+#EXTINF:-1 tvg-id="bet.us" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Black_Entertainment_Television_%28logo%29.svg",BET
+https://dlhd.pk/embed/stream-48.php
+
