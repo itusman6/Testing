@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="DLHD 24/7",PTV Sports
+#EXTINF:-1,PTV Sports
 #EXTVLCOPT:http-origin=https://zalis.phantemlis.top
-#EXTVLCOPT:http-referer=https://zalis.phantemlis.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-https://zalis.phantemlis.top/premium450/index.m3u8?md5v1=sQXHMI53LY2MmDjnXqMBdQ&md5v2=lB_XWe06pDH6Lbkj2XWqNw&expires=1782654844
+#EXTVLCOPT:http-referer=https://hamis.romponalis.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://zalis.phantemlis.top/premium450/index.m3u8?md5v1=9qWjPm1nkOPfHzcbTXMDwg&md5v2=5hKxxYDiVflddNGQfAu59Q&expires=1782662928
