@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="FANCODE",Indonesia vs Thailand (Asia Pacific Cricket Champions Trophy,2026
-#EXTVLCOPT:http-origin=https://fancode.com
-#EXTVLCOPT:http-referer=https://fancode.com/
-#EXTVLCOPT:http-user-agent=‎ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-https://in-mc-fblive.fancode.com/mumbai/143543_english_hls_baa3c09ff753419_1ta-di_h264/index.m3u8
+#EXTINF:-1 group-title="DLHD 24/7",Animal Planet
+#EXTVLCOPT:http-origin=https://pontos.phantemlis.top
+#EXTVLCOPT:http-referer=https://pontos.phantemlis.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+https://pontos.phantemlis.top/premium304/index.m3u8?md5v1=66yfrssuPFB2L-BHW-SiuQ&md5v2=S34w1-FL4A_--tojUNsxxQ&expires=1782630706
