@@ -1,8 +1,26 @@
 #EXTM3U
 
-#EXTINF:-1,PTV Sports
+#EXTINF:-1,PTV Sports 1
 #EXTVLCOPT:http-origin=https://zalis.phantemlis.top
 #EXTVLCOPT:http-referer=https://zalis.phantemlis.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-https://zalis.phantemlis.top/premium450/index.m3u8?md5v1=_9iKdaQNRsbM1RY3vNx0JQ&md5v2=mdCrZ7_vK68Kh3dI4URiZg&expires=1782663704
+https://zalis.phantemlis.top/premium450/index.m3u8?md5v1=p1ATxcm-KCPKmTUORIss_g&md5v2=eWBUZUEmBALh9MSJdBQWwA&expires=1782663940
+
+#EXTINF:-1,PTV Sports 2
+#EXTVLCOPT:http-origin=https://zalis.phantemlis.top
+#EXTVLCOPT:http-referer=https://zalis.phantemlis.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+https://zalis.phantemlis.top/premium450/index.m3u8?md5v1=0L-c5Ncyb_yteyyP4uHGMw&md5v2=HKabMHxQxmRatkN00UfhfA&expires=1782663957
+
+#EXTINF:-1,PTV Sports 3
+#EXTVLCOPT:http-origin=https://zalis.phantemlis.top
+#EXTVLCOPT:http-referer=https://zalis.phantemlis.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+https://zalis.phantemlis.top/premium450/index.m3u8?md5v1=0L-c5Ncyb_yteyyP4uHGMw&md5v2=HKabMHxQxmRatkN00UfhfA&expires=1782663957
+
+#EXTINF:-1,PTV Sports 4
+#EXTVLCOPT:http-origin=https://zalis.phantemlis.top
+#EXTVLCOPT:http-referer=https://zalis.phantemlis.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+https://zalis.phantemlis.top/premium450/index.m3u8?md5v1=0L-c5Ncyb_yteyyP4uHGMw&md5v2=HKabMHxQxmRatkN00UfhfA&expires=1782663957
 
