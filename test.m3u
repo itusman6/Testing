@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="DLHD 24/7",Animal Planet
-#EXTVLCOPT:http-origin=https://pontos.phantemlis.top
-#EXTVLCOPT:http-referer=https://pontos.phantemlis.top/
+#EXTINF:-1 group-title="DLHD 24/7",PTV Sports
+#EXTVLCOPT:http-origin=https://zalis.phantemlis.top
+#EXTVLCOPT:http-referer=https://zalis.phantemlis.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-https://pontos.phantemlis.top/premium304/index.m3u8?md5v1=nPamviTyJZU-RFEH8qWD2g&md5v2=W359Cae-S5Hfztetx5jmvQ&expires=1782630913
+https://zalis.phantemlis.top/premium450/index.m3u8?md5v1=sQXHMI53LY2MmDjnXqMBdQ&md5v2=lB_XWe06pDH6Lbkj2XWqNw&expires=1782654844
