@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="Cricket",Willow TV
+#EXTINF:-1 tvg-logo="https://crichd.cz/assets/channels/willow.webp" group-title="Cricket",Willow
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-referer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://bhalocast.com/
-https://oz2.player0003.com:7060/hls/willowala5.m3u8?md5=YvmoGt6aoxEUjyc0utTzgA&expires=1782937686&ch=willowala5&s=8bc754354e0607c62f163639c8927709
+https://oz2.player0003.com:7060/hls/willow-cricket-live-streaming.m3u8?md5=Kl8pdIHVc8q0a2T98VyHGw&expires=1782943248&ch=willow-cricket-live-streaming&s=8a0e9301ad32423255fdbf5f32d46e81
