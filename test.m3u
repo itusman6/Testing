@@ -1,4 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="CricHD",Sky Sports Main Event
-https://stream.crichd.sc/update/fetch.php?hd=1
+#EXTINF:-1 tvg-logo="https://crichd.cz/assets/channels/willow.webp" group-title="CricHD 24/7", Willow
+#EXTVLCOPT:http-origin=https://bhalocast.com
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://oz1.player0003.com:7061/hls/willowala5.m3u8?md5=rtRCmpPPhpvMQETh8X5F-A&expires=1782935424&ch=willowala5&s=7b0c471416deaf66308890fc4dc7d70d
