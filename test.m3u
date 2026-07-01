@@ -1,4 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, Portugal x Croatia
-https://embedhd.org/source/fetch.php?hd=71
+#EXTINF:-1 group-title="Friendlies Clubs",Erzgebirge Aue VS Vysočina Jihlava | Friendlies Clubs
+#EXTVLCOPT:http-origin=https://iframe.rumsport10.live
+#EXTVLCOPT:http-referer=https://iframe.rumsport10.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a41cd248cb9e8c43b11150f/chunks.m3u8?is_vip=false&token=935d9079ee1fa7ca6be0967615e80e69e6226f44&x-sign=14b2cf2e2a343eae9adbe32e43063e0a&x-time=1782918960
