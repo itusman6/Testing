@@ -1,8 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://crichd.cz/assets/channels/willow.webp" group-title="Cricket",Willow
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-#EXTVLCOPT:http-referer=https://bhalocast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://bhalocast.com/
-https://oz2.player0003.com:7060/hls/willowala5.m3u8?md5=PMytvlr-T_bJmXrpYO36bg&expires=1782949014&ch=willowala5&s=191c9129af526093997e0210d90d3eb8
+#EXTINF:-1 group-title="DLHD 24/7",AHC (American Heroes Channel)
+#EXTVLCOPT:http-origin=https://zalis.phantemlis.top
+#EXTVLCOPT:http-referer=https://zalis.phantemlis.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+https://zalis.phantemlis.top/premium206/index.m3u8?md5v1=QoV0pvbHW-c5pMaIEWrD6g&md5v2=cDT_z6_Hd3mdLLhI_BwUUQ&expires=1782951840
