@@ -1,7 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="DLHD 24/7",ABC USA
-#EXTVLCOPT:http-origin=https://vomos.phantemlis.top
-#EXTVLCOPT:http-referer=https://hamis.romponalis.st/premiumtv/daddy3.php?id=51
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://vomos.phantemlis.top/premium51/index.m3u8?md5v1=OuWqGbrjSYO-yWrLkMyy9g&md5v2=cibK0C0Cry8UslFqWUXyCQ&expires=1783014934
+#EXTINF:-1 tvg-logo="https://crichd.mobile/assets/channels/willow.webp" group-title="Cricket",Willow Cricket Live Streaming
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-referer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://bhalocast.com/
+https://oz2.player0003.com:7060/hls/willowsd.m3u8?md5=tllgVESc-vvTD1ws0RHnKw&expires=1784065615&ch=willowsd&s=03b752651e7c536a03993280f65a7f3c
