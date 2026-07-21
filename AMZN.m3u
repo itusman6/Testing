@@ -1691,3 +1691,124 @@ https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"e4f022a08508d006918dd90275feff34":"0eb4ccdf0d39c9e5a4a0b596ab5751a9","033307a147a4d35a99109a79b2aa3e8c":"a1e51fff110f8784491219998c447ab2","e6042fe46ecd1b2a15c2771a25fbb7ba":"8939d00458e7883730cdd60ba0e391f2","0936d915376efcd813ce40428601cc31":"c542de1c1fb7e64b48fe72e14b6b6dc4"}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/490/1/live.mpd
+
+
+LogoPH
+CORNER
+Home
+Forums
+📽️ Streaming · Media
+📽️ Video Streaming
+📺 IPTV Some channels Argentina - mpd
+Post thread
+ Thread starterpitufo9  Start dateSun at 8:24 PM
+
+Quick search…
+Jump to new
+Watch
+pitufo9
+pitufo9
+Established
+Sun at 8:24 PM
+Add bookmark
+#1
+#EXTINF:-1 group-title="",TV Publica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0259a1760a8b123dedc1b9f008463e61:86c61c4dd0abd13f5c115cbf2176673e
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(tvpublica_arg)/manifest.mpd
+
+
+#EXTINF:-1 group-title="",TNT Sports AR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f7d41f94c41a5943cd836a52a59b7ebc:de0cb81e4146240f61281db5bf0d0ade
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(tntsports_arg)/manifest.mpd
+
+#EXTINF:-1 group-title="",Espn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae99daa35220336fe9460b9060fa65a9:ac284e8e24296f30496d1f39a7138205
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(espn_2)/variant.mpd
+
+#EXTINF:-1 group-title="",ESPN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d1be59dc758ccbab3b567343d5d2915:4744fd0e2fb5aaae961f468925ac2b73
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(espn)/variant.mpd
+
+#EXTINF:-1 group-title="",ESPN2 AR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd71a595f5b61225be82193536bd891b:279d9fb593bf5b8a4b4350171f6139fa
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(espn2_arg)/manifest.mpd
+
+
+#EXTINF:-1 group-title="",Espn 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=430f38110162f19a042b4dcdc2005140:50541179fbd5750aea8767cb6e6b3a7b
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(espn_3)/variant.mpd
+
+#EXTINF:-1 group-title="",Espn 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef0779dad62e7a021ac8b82a5a8dd329:e18c7892858eb04bf8d2dcf4f057dd77
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(espn_extra)/variant.mpd
+
+
+#EXTINF:-1 group-title="",TYC Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=197ca823ac5f4e48573f9f87113c7d7a:c30eefbf2e79a97b0340e0877f4cdbf5
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(tycsports_arg)/manifest.mpd
+
+
+#EXTINF:-1 group-title="",Telefe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=675cb5adcd788bdee4af50518b041626:b28bf4d4eec81cb96e6ca9a0c022dcd5
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(telefe_arg)/manifest.mpd
+
+
+#EXTINF:-1 group-title="",D Sports AR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a5e4bb046f274791c52cd4b73956b82e:ae51f5539228fcdf04fa13f4bdd8b7b3
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(dsports_arg)/variant.mpd
+
+#EXTINF:-1 group-title="",DSports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=35eead5c196a017344cd7d3052e1fbb1:746bddf74e86949660be83a83ffe9d20
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(dsports2_arg)/variant.mpd
+
+#EXTINF:-1 group-title="",Deportv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=67bdf2a11676afea85dc4a0a1ad32505:4cac215849ae213aa2893644506ed559
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(deportv_arg)/variant.mpd
+
+#EXTINF:-1 group-title="",Claro Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21a7580dfcec81607492d5a2db40727e:20e15c193a68a6631b5d0d1f6e5c6204
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(clarosports)/variant.mpd
+
+#EXTINF:-1 group-title="",El Trece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3d43de9ff5b5a45cdc9f4e7f177a1a5:e9b5b62c4f58c7bfebf424c42ba6c164
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(eltrece_arg)/variant.mpd
+
+#EXTINF:-1 group-title="",TVN chile
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=036993a0b6fecd7c7704d69e0497486f:3de8cf45159bdf059ad2c1368af6a918
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(tvnchile_arg)/variant.mpd
+
+#EXTINF:-1 group-title="",Star Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad4a7a7f3840844fa7188581387bb22a:a4a387411c220b879db932bb95f7e1ac
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(starchannel_arg)/manifest.mpd
