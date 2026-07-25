@@ -1812,3 +1812,25 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(tvnchile_arg)/variant.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad4a7a7f3840844fa7188581387bb22a:a4a387411c220b879db932bb95f7e1ac
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(starchannel_arg)/manifest.mpd
+
+#EXTM3U
+
+#EXTINF:-1,ESPN
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(espn)/variant.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d1be59dc758ccbab3b567343d5d2915:4744fd0e2fb5aaae961f468925ac2b73
+
+#EXTINF:-1,ESPN 2
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(espn_2)/variant.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae99daa35220336fe9460b9060fa65a9:ac284e8e24296f30496d1f39a7138205
+
+#EXTINF:-1,ESPN 3
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(espn_3)/variant.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=430f38110162f19a042b4dcdc2005140:50541179fbd5750aea8767cb6e6b3a7b
+
+#EXTINF:-1,ESPN EXTRA
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(espn_extra)/variant.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef0779dad62e7a021ac8b82a5a8dd329:e18c7892858eb04bf8d2dcf4f057dd77
