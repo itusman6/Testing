@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Entertainment Channels" tvg-logo="https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.png",Hum TV
-#EXTVLCOPT:http-user-agent=okhttp/5.1.0
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1787054413:KeyName=prod_linear:Signature=ny0LNyta_Iqw_I7mAET0UhqbcmK2e2J1_NEyt8rnzJlAidhxEg48zU0pjcdBd0ZEpXQv-uQ35qwi5QyWyA5BBQ"}
+#EXTINF:-1 group-title="Entertainment Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.png", Hum TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1787056044:KeyName=prod_linear:Signature=r8Qh3RjQ9zmKU5YVqqITz0annapxpvOnBFnNP0dGeBr_cTQ5aB1s5ROZpMnBAxyt4z0pRN5Bc_XX3rIXrPpOAA"}
 https://toffee-proxy.digantapostv1.workers.dev/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_tv/playlist.m3u8
