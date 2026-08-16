@@ -1,8 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://crichd.mobile/assets/channels/willow.webp" group-title="Cricket",Willow Cricket Live Streaming
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-#EXTVLCOPT:http-referer=https://bhalocast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://bhalocast.com/
-https://oz2.player0003.com:7060/hls/willowsd.m3u8?md5=tllgVESc-vvTD1ws0RHnKw&expires=1784065615&ch=willowsd&s=03b752651e7c536a03993280f65a7f3c
+#EXTINF:-1 group-title="Entertainment Channels" tvg-logo="https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.png",Hum TV
+#EXTVLCOPT:http-user-agent=okhttp/5.1.0
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1787054413:KeyName=prod_linear:Signature=ny0LNyta_Iqw_I7mAET0UhqbcmK2e2J1_NEyt8rnzJlAidhxEg48zU0pjcdBd0ZEpXQv-uQ35qwi5QyWyA5BBQ"}
+https://toffee-proxy.digantapostv1.workers.dev/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_tv/playlist.m3u8
