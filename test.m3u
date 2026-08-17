@@ -1,6 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Entertainment Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.png", Hum TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1787056044:KeyName=prod_linear:Signature=r8Qh3RjQ9zmKU5YVqqITz0annapxpvOnBFnNP0dGeBr_cTQ5aB1s5ROZpMnBAxyt4z0pRN5Bc_XX3rIXrPpOAA"}
-https://toffee-proxy.digantapostv1.workers.dev/proxy?url=https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_tv/playlist.m3u8
+#EXTINF:-1 England Vs. New Zealand
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b234524f228acee39ee0520f365b53b9:796e64fdd5fa38817b89f687070e4ecb
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zjj9jidz6n/out/v1/fb55b85aa1fa43ae883adfe34606614c/cenc.mpd
