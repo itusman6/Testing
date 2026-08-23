@@ -1951,27 +1951,3 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/u7xfabrc5b/out/v1/6
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3290efe4c5cf67165e846a0742c22cd9:ddb94463c46af6037432fc026339c09d
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/fgrjsgdqg3/out/v1/4a69574b0c0e4db394a55968f3d5b445/cenc.mpd
-
-#EXTINF:-1,BBC Earth
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dd1056773fa6dcbc6617a19b1e15a0a4:1df112d6adea0ce217d57071cc449da8
-https://live-pv-ta.amazon.fastly-edge.net/live/clients/dash/enc/ClvUqSl20v/out/v1/a9e0d0f5d37f45798e146070aebf7e00/cenc.mpd
-
-#EXTINF:-1,BBC Series
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ece5849bbd549f697d9f8fbb0c69770:03992efb0a6954e2b059191ec4744ada
-https://live-pv-ta.amazon.fastly-edge.net/live/clients/dash/enc/ClvUqSl20v/out/v1/e55ff8f68ea34c8f9892c4fb4e6b6723/cenc.mpd
-
-#EXTINF:-1,BBC Top Gear
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e90b1a327525c5308da2181923dd41d2:7f17fd91a726a65040f9aa1b339652e5
-https://live-pv-ta.amazon.fastly-edge.net/live/clients/dash/enc/ClvUqSl20v/out/v1/b61b818881cf4eb986187e5f68a53033/cenc.mpd
-
-#EXTINF:-1,BBC Lifestyle
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=02794b29853de30fef3e6e3d2f0af4c0:e6e1100152bcfd5de06a867801ce9bec
-https://live-pv-ta.amazon.fastly-edge.net/live/clients/dash/enc/ClvUqSl20v/out/v1/39e470c9bf5d48a3ab80595616164020/cenc.mpd
