@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,England Vs. New Zealand
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b234524f228acee39ee0520f365b53b9:796e64fdd5fa38817b89f687070e4ecb
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zjj9jidz6n/out/v1/fb55b85aa1fa43ae883adfe34606614c/cenc.mpd
+#EXTINF:-1 group-title="Streamedpk",Willow Cricket
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTVLCOPT:http-referer=https://embed.st/embed/admin/admin-willow-cricket/1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://lb4.strmd.st/secure/QdYqszNtPhehRyYLitxEQYHfHhnYsaOS/rtmp/stream/streamed-willow_720/1/playlist.m3u8
