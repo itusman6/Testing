@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Movie",Movie Test
-#EXTVLCOPT:http-origin=https://altadefinizionestreaming.tv
-#EXTVLCOPT:http-referer=https://altadefinizionestreaming.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 Chrome/120.0.0.0 Safari/537.36
-https://89-149-241-112.sslip.io/stream/157336/movie/m720p.mp4?exp=1787592600&sig=c214255b77946e6b3ba11a3eb1b872a6&ipsig=0731acb25e3dff9a01135637759b604d
+#EXTVLCOPT:http-origin=https://www.partite.cc
+#EXTVLCOPT:http-referer=https://www.partite.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36
+https://www.partite.cc/hls/s1/movie/tt12037194/playlist.m3u8
