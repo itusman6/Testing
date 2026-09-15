@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Movie",Movie Test
-#EXTVLCOPT:http-origin=https://www.partite.cc
-#EXTVLCOPT:http-referer=https://www.partite.cc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36
-https://www.partite.cc/hls/s1/movie/tt12037194/playlist.m3u8
+#EXTINF:-1 group-title="Daddylive",ABC USA
+#EXTVLCOPT:http-origin=https://iplayer.is
+#EXTVLCOPT:http-referer=https://iplayer.is/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+https://premium.hls.st/playlist/premium51.m3u8
