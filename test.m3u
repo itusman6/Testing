@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Daddylive",ABC USA
-#EXTVLCOPT:http-origin=https://iplayer.is
-#EXTVLCOPT:http-referer=https://iplayer.is/
+#EXTINF:-1 group-title="Daddylive",Animal Planet
+#EXTVLCOPT:http-origin=https://epiembeds.online
+#EXTVLCOPT:http-referer=https://epiembeds.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-https://premium.hls.st/playlist/premium51.m3u8
+https://epidd.hundxvision.co.uk/main/secure/d131a0683b711afbd3304eb24f63b3f21ea275ac7a808273d94176fc7e85ad76/1789516339/animalplanet-usa.m3u8
