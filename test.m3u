@@ -1,6 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Player 1 Schedule" tvg-name="📺 Big Brother 👁️ 28 Live Feeds Cam 1",[18:30] 📺 Big Brother 👁️ 28 Live Feeds Cam 1 (BB Cam Live)
-#EXTVLCOPT:http-referrer=https://tiestep.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://dlhd-alt.scriptingguru.com/dlhd/proxy.php?url=https%3A%2F%2F8z09jo.7odxv0l067ka.net%3A8443%2Fhls%2Fithsvth7c0314.m3u8%3Fs%3DBN3-NC2BSILD33tYAKkIrg%26e%3D1790297112&referer=https%3A%2F%2Ftiestep.top%2F
+#EXTINF:-1 group-title="DLHD" tvg-name="ABC USA",[18:30] ABC USA
+#EXTVLCOPT:http-origin=https://daddyliveplayer.st
+#EXTVLCOPT:http-referrer=https://daddyliveplayer.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36
+https://edge.cowedd4855ws.sbs/premium51/index.m3u8?_=1790373032962
