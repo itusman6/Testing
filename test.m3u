@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="51" tvg-name="The Court (2026) S01E13-16 Dual 1080P" group-title="Movies",The Court (2026) S01E13-16 Dual 1080P
-#EXTVLCOPT:http-origin=Referer=https://fibwatch.art
-#EXTVLCOPT:http-referer=Referer=https://fibwatch.art/
+#EXTVLCOPT:http-origin=https://fibwatch.art
+#EXTVLCOPT:http-referrer=https://fibwatch.art/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 https://odfgbv.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]The.Court.(2026).S01E13-16.Dual.1080P.mkv
