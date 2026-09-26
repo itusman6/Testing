@@ -1,7 +1,3 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="51" tvg-name="Priyotoma (2023) Bengali" group-title="Bengali",Priyotoma (2023) Bengali
-#EXTVLCOPT:http-origin=https://iscreen.com.bd
-#EXTVLCOPT:http-referrer=https://iscreen.com.bd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-https://livecdn.rockstreamer.com/videos/74ec94fcd72349dea7bf71b1205de073/master.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="Saladin: The Conquerer of Jerusalem 01-15 Bangla dubbing - Episode 05" "http://bdfunshow.xtgem.com/images/1786021849228_1.png" group-title="Bengali",Saladin: The Conquerer of Jerusalem 01-15 Bangla dubbing - Episode 05
