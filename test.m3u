@@ -1,8 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="toffee_tv" tvg-name="Toffee TV" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png" group-title="Family",Toffee TV
-#EXTVLCOPT:http-user-agent=okhttp/5.1.0
-#EXTVLCOPT:http-referrer=https://prod-linear-media.toffeelive.com/
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3Dokhttp%2F5.1.0%26Host%3Dprod-linear-media.toffeelive.com
-#EXTHTTP:{"User-Agent":"okhttp/5.1.0","Host":"prod-linear-media.toffeelive.com","client-api-header":"null"}
-https://prod-linear-media.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8?edge-cache-token=Expires=1790384508~Starts=1790380908~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=-i8ClgotyM3dCjplsfYZ8HtrwBncc4Uz_towqjStn-WphDDTZpAp1YMP96xv9mL9y6mqV78K1iqiTgxeCKnRAA
+#EXTINF:-1 tvg-id="51" tvg-name="ABC USA" tvg-logo="https://dlive.sx/assets/logos/logo.png" group-title="24/7",ABC USA
+#EXTVLCOPT:http-origin=https://iplayer.is
+#EXTVLCOPT:http-referer=https://iplayer.is/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+https://tofee-api.streamingscripts.xyz/proxy.php?url=https://premium.hls.st/playlist/premium51.m3u8
