@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="51" tvg-name="The Court (2026) S01E13-16 Dual 1080P" group-title="Movies",The Court (2026) S01E13-16 Dual 1080P
-#EXTVLCOPT:http-origin=https://fibwatch.art
-#EXTVLCOPT:http-referrer=https://fibwatch.art/
+#EXTINF:-1 tvg-id="51" tvg-name="Priyotoma (2023) Bengali" group-title="Bengali",Priyotoma (2023) Bengali
+#EXTVLCOPT:http-origin=https://iscreen.com.bd
+#EXTVLCOPT:http-referrer=https://iscreen.com.bd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-https://odfgbv.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]The.Court.(2026).S01E13-16.Dual.1080P.mkv
+https://livecdn.rockstreamer.com/videos/74ec94fcd72349dea7bf71b1205de073/master.m3u8
