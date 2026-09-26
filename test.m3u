@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://srhady-live-stream.hf.space/image?url=https://odfgbv.b-cdn.net/upload/photos/2026/09/The.Court.jpg" group-title="General" tvg-language="Default" tvg-date="09/26/2026 02:46:02 AM" tvg-quality="WEB-DL" tvg-resolution="HD",The Court (2026) S01E13-16 Dual 1080P
-#EXTVLCOPT:http-origin=Referer=https://fibwatch.art
-#EXTVLCOPT:http-referer=Referer=https://fibwatch.art/
+#EXTVLCOPT:http-origin=https://fibwatch.art
+#EXTVLCOPT:http-referer=https://fibwatch.art/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 https://odfgbv.b-cdn.net/s3/upload/videos/2026/09/[Fibwatch.Com]The.Court.(2026).S01E13-16.Dual.1080P.mkv
