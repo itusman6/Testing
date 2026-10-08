@@ -1,7 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="51" tvg-name="Saladin: The Conquerer of Jerusalem 01-15 Bangla dubbing - Episode 05" "http://bdfunshow.xtgem.com/images/1786021849228_1.png" group-title="Bengali",Saladin: The Conquerer of Jerusalem 01-15 Bangla dubbing - Episode 05
-#EXTVLCOPT:http-origin=https://bongobd.com
-#EXTVLCOPT:http-referrer=https://bongobd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-https://vod.bongobd.com/vod/vod/919f93a7400e4149a70d204beb589074/0/3/03759912b7a445409fc668846f91b042/f3cb801fcd7c4d0ab68ba99f645c4fc4.m3u8
+#EXTINF:-1 tvg-id="2022" group-title="JIO ⭕|Assamese" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NB_News.png",NB News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/2022
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1791237603~exp=1791259203~acl=/*~hmac=28f8d474f12d1464c960919a4d89ff453ff8dfd159ba1ee48f9ff80769f07456","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://onekey.virey40690.workers.dev/mpd/2022
