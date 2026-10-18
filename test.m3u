@@ -2,14 +2,9 @@
 
 #EXTM3U
 
-#EXTINF:-1 group-title="DLHD 24/7",ABC USA
-#EXTVLCOPT:http-origin=https://dembed.st/premiumtv/daddy.php?id=51
-#EXTVLCOPT:http-referer=https://dembed.st/premiumtv/daddy.php?id=51/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-https://edge.cowedd4855ws.sbs/premium51/index.m3u8
 
-#EXTINF:-1 group-title="DLHD 24/7",ABC USA
-#EXTVLCOPT:http-origin=https://missflight.net/e/7i3s718z15a43
-#EXTVLCOPT:http-referer=https://missflight.net/e/7i3s718z15a43/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-https://8z09jo.7odxv0l067ka.net:8443/hls/o9mvou7h7jmct.m3u8?s=TyO7fMtkROvAInUXnrZvNQ&e=1792138507
+#EXTINF:-1 tvg-logo="https://crichd.mobile/assets/channels/willow.webp" group-title="24/7 Channels",Willow Cricket
+#EXTVLCOPT:http-origin=https://playsza.st
+#EXTVLCOPT:http-referrer=https://playsza.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
+https://mz01.bhalocast.com:7060/hls/willow2c.m3u8?md5=_IQFrcTgSzBgI5rlTJyJLw&expires=1792352379&ch=willow2c&s=23c406e993636fc4b304c8250656ecc4
