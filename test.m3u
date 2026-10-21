@@ -3,8 +3,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://crichd.mobile/assets/channels/willow.webp" group-title="24/7 Channels",Willow Cricket
-#EXTVLCOPT:http-origin=https://playsza.st
-#EXTVLCOPT:http-referrer=https://playsza.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
-https://mz01.bhalocast.com:7060/hls/willow2c.m3u8?md5=_IQFrcTgSzBgI5rlTJyJLw&expires=1792352379&ch=willow2c&s=23c406e993636fc4b304c8250656ecc4
+#EXTINF:-1 tvg-id="admin:ppv-minnesota-timberwolves-vs-miami-heat:1" tvg-name="Miami Heat vs Minnesota Timberwolves" tvg-logo="" group-title="Basketball",Miami Heat vs Minnesota Timberwolves — Admin Stream 1 (HD)
+#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://lb16.strmd.st/secure/EOKOuAMSQdAjMmwFoDrBXtwkABuORrQx/rtmp/stream/2xEIj2mP_cha1A1p7PFm7r9syfALQYXzNewH5jYbdIYZR0DbGFVLB2mO3EUfh1nqKC2TLP7p2ogGFOaBRwEOoHj_CApZy-p7/1/high/mono.m3u8
