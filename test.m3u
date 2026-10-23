@@ -7,4 +7,4 @@
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://embedst-api.surpriseplay.online/proxy.php?url=https%3A%2F%2Flb22.strmd.st%2Fsecure%2FhuihYqMWOMPBXDixHdTDZIgoDJRrBzTz%2Frtmp%2Fstream%2FwhfZFV6yl5dAfIUUblF6sEb6nyBwRGATl-TyL2zLx6m4LFMclVZ_F8xgsVEnw-GkpDQ%2F1%2Fhigh%2Fmono.m3u8
+http://embedst-api.surpriseplay.online:3001/api/hls?url=https%3A%2F%2Flb31.strmd.st%2Fsecure%2FWUeJfZMRuyfOaWrKEPqMNttemuwvvhcP%2Frtmp%2Fstream%2FykEr-l2mNoV1zk6YmuypxdFuftcslXm9QYu4Jx6p7k5WSQUuYS9w82_SkAm1FfsmL70%2F1%2Fhigh%2Fmono.m3u8&referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-sky-sports-golf%2F1
