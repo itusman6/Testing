@@ -7,4 +7,4 @@
 #EXTVLCOPT:http-referrer=https://embed.st/
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://lb16.strmd.st/secure/EOKOuAMSQdAjMmwFoDrBXtwkABuORrQx/rtmp/stream/2xEIj2mP_cha1A1p7PFm7r9syfALQYXzNewH5jYbdIYZR0DbGFVLB2mO3EUfh1nqKC2TLP7p2ogGFOaBRwEOoHj_CApZy-p7/1/high/mono.m3u8
+http://embedst-api.surpriseplay.online:3001/api/hls?url=https%3A%2F%2Flb10.strmd.st%2Fsecure%2FhjHmWJUINrCrOvpWkKbZabaNbsARNtKd%2Frtmp%2Fstream%2FLswmaNPlAGCZMCNVWsbIP6-sWzG4NiBcBXgOtRVbrDh4PvbwTKeChHfV5M_ZbzcXB5s%2F1%2Fhigh%2Fmono.m3u8
