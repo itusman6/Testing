@@ -3,8 +3,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="admin:ppv-minnesota-timberwolves-vs-miami-heat:1" tvg-name="Miami Heat vs Minnesota Timberwolves" tvg-logo="" group-title="Basketball",Miami Heat vs Minnesota Timberwolves — Admin Stream 1 (HD)
-#EXTVLCOPT:http-referrer=https://embed.st/
-#EXTVLCOPT:http-origin=https://embed.st
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://embedst-api.surpriseplay.online:3001/api/hls?url=https%3A%2F%2Flb31.strmd.st%2Fsecure%2FWUeJfZMRuyfOaWrKEPqMNttemuwvvhcP%2Frtmp%2Fstream%2FykEr-l2mNoV1zk6YmuypxdFuftcslXm9QYu4Jx6p7k5WSQUuYS9w82_SkAm1FfsmL70%2F1%2Fhigh%2Fmono.m3u8&referer=https%3A%2F%2Fembed.st%2Fembed%2Fadmin%2Fppv-sky-sports-golf%2F1
+#EXTINF:-1 tvg-id="Golf: PPV Sky Sports Golf" tvg-logo="" group-title="Golf",PPV Sky Sports Golf — Golf Stream 1 (HD)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+https://lb25.strmd.st/secure/GzPZUMAscTTfRaOjtfbKOKbJnjDfTQbf/rtmp/stream/dEQQ1_BZfbVm1ioPNKaSKI7rSyr9Ymei-M5LBaDGsTsjn0OcUSS7o-S3vHf9kxN9GNE/1/playlist.m3u8
