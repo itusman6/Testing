@@ -5,5 +5,9 @@
 
 #EXTINF:-1 tvg-id="Golf: PPV Sky Sports Golf" tvg-logo="" group-title="Golf",PPV Sky Sports Golf — Golf Stream 1 (HD)
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-origin=https://embed.st
+#EXTVLCOPT:http-referer=https://embed.st/embed/admin/ppv-sky-sports-golf/1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-https://lb25.strmd.st/secure/GzPZUMAscTTfRaOjtfbKOKbJnjDfTQbf/rtmp/stream/dEQQ1_BZfbVm1ioPNKaSKI7rSyr9Ymei-M5LBaDGsTsjn0OcUSS7o-S3vHf9kxN9GNE/1/playlist.m3u8
+https://lb4.strmd.st/secure/FdCDxWoPcfEhUTwmusWfWCjLwfhGPqKI/rtmp/stream/nHyllIYh-N37FggIVCRPh6AJxSJ5CK8HynWOty_jGcO5h9q_fS7Kcz2TzRpwM-Bk78c/1/playlist.m3u8
