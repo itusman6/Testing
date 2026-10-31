@@ -1,6 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Sky Sports Cricket" group-title="Cricket",Sky Sports Cricket 1080p
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premier League",[Live - 11:00 AM] Premier League - AFC Bournemouth vs Leeds United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://strmfree.st/embed/cricket/skysportscricket1080p
-https://strmfree.st/live/skysportscricket1080p/index.m3u8?_t=yz61kNC7BFFuUK4D9kFIJQ&_e=1793315691&_n=668f337f94659ffc
+#EXTVLCOPT:http-origin=https://247.aurasportsplayer.cfd
+#EXTVLCOPT:http-referrer=https://247.aurasportsplayer.cfd/player/343
+https://247.aurasportsplayer.cfd/live/343.m3u8?_=1793463599484
